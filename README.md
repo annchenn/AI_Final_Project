@@ -21,9 +21,9 @@
 用這個dataset去fine-tune BLIP讓他可以根據使用者傳入的圖片回答「這是什麼食物」和「這道菜的食譜是什麼」這兩個問題。
 
 ## contents in files: 
-- dataset: dataset.json()
-- fine-tune method: FT Example.ipynb
-- BLIP: BLIP.py
+- dataset.json(): dataset
+- FT Example.ipynb: fine-tune method
+- BLIP.py: BLIP
 
 接下來可能會試著學爬蟲，去爬網站搜集台灣食物的食譜。
 
