@@ -1,0 +1,26 @@
+[project]
+name = "myblip"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "YinXuan1223",email = "leeyinxuan.cs12@nycu.edu.tw"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests (>=2.32.3,<3.0.0)",
+    "transformers (>=4.51.3,<5.0.0)",
+    "pillow (>=11.2.1,<12.0.0)",
+    "torch (>=2.7.0,<3.0.0)",
+    "torchvision (>=0.22.0,<0.23.0)",
+    "opencv-python-headless (>=4.11.0.86,<5.0.0.0)",
+    "gradio (>=5.29.0,<6.0.0)"
+]
+
+[tool.poetry]
+packages = [{include = "myblip", from = "src"}]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
