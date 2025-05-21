@@ -1,0 +1,38 @@
+[   
+   {    
+        "id": 1,
+        "fake_id":100,
+        "cuisine_img_url": "https://icook.tw/recipes/455986",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient": "五花肉", "amount": "2000", "unit":"克"},
+            {"ingredient": "洋蔥", "amount": "2", "unit":"顆"},
+            {"ingredient": "紅蔥頭末", "amount": "50", "unit":"克"},
+            {"ingredient": "蒜末", "amount": "50", "unit": "克"},
+            {"ingredient": "五香粉", "amount": "1", "unit":"小匙"},
+            {"ingredient":"醬油", "amount": "1", "unit": "杯"},
+            {"ingredient":"油膏", "amount": "0.5", "unit":"杯"},
+            {"ingredient":"紹興酒", "amount": "4", "unit":"大匙"},
+            {"ingredient":"冰糖", "amount": "50", "unit":"克"}
+        ],
+        "cooking_instructions": "小黃瓜洗淨後，去除頭尾，然後以菜刀拍碎; 將拍碎的小黃瓜切小段; 加入細砂糖拌勻，去菁15分鐘; 辣椒清洗後切成辣椒圈; 蒜頭清洗後切成蒜末; 用手將小黃瓜多餘的水份擠出，然後倒掉; 加入辣椒圈和蒜末; 加入醬油; 加入烏醋; 加入鹽; 淋上加熱後的植物油(淋熱油); 將所有食材拌勻即可食用; 於冰箱醃漬2小時以上會更入味更好吃; "
+    },
+    {   
+        "id": 2,
+        "fake_id":200,
+        "cuisine_img_url": "https://icook.tw/recipes/455986",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient": "五花肉", "amount": "2000", "unit":"克"},
+            {"ingredient": "洋蔥", "amount": "2", "unit":"顆"},
+            {"ingredient": "紅蔥頭末", "amount": "50", "unit":"克"},
+            {"ingredient": "蒜末", "amount": "50", "unit": "克"},
+            {"ingredient": "五香粉", "amount": "1", "unit":"小匙"},
+            {"ingredient":"醬油", "amount": "1", "unit": "杯"},
+            {"ingredient":"油膏", "amount": "0.5", "unit":"杯"},
+            {"ingredient":"紹興酒", "amount": "4", "unit":"大匙"},
+            {"ingredient":"冰糖", "amount": "50", "unit":"克"}
+        ],
+        "cooking_instructions": "小黃瓜洗淨後，去除頭尾，然後以菜刀拍碎; 將拍碎的小黃瓜切小段; 加入細砂糖拌勻，去菁15分鐘; 辣椒清洗後切成辣椒圈; 蒜頭清洗後切成蒜末; 用手將小黃瓜多餘的水份擠出，然後倒掉; 加入辣椒圈和蒜末; 加入醬油; 加入烏醋; 加入鹽; 淋上加熱後的植物油(淋熱油); 將所有食材拌勻即可食用; 於冰箱醃漬2小時以上會更入味更好吃; "
+    }
+]
