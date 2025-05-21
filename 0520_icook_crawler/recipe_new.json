@@ -1,7 +1,8 @@
 [
     {
+        "cuisine_id":1,
         "cuisine_img_url": "https://icook.tw/recipes/455986",
-        "cuisine_name": "手切滷肉/滷肉飯",
+        "cuisine_name": "滷肉飯",
         "ingredients": [
             {"ingredient": "五花肉", "amount": "2000", "unit":"克"},
             {"ingredient": "洋蔥", "amount": "2", "unit":"顆"},
@@ -16,14 +17,26 @@
         "cooking_instructions": "小黃瓜洗淨後，去除頭尾，然後以菜刀拍碎; 將拍碎的小黃瓜切小段; 加入細砂糖拌勻，去菁15分鐘; 辣椒清洗後切成辣椒圈; 蒜頭清洗後切成蒜末; 用手將小黃瓜多餘的水份擠出，然後倒掉; 加入辣椒圈和蒜末; 加入醬油; 加入烏醋; 加入鹽; 淋上加熱後的植物油(淋熱油); 將所有食材拌勻即可食用; 於冰箱醃漬2小時以上會更入味更好吃; "
     },
     {
+        "cuisine_id":2,
         "cuisine_img_url": "https://icook.tw/recipes/391516",
-        "cuisine_name": "",
+        "cuisine_name": "滷肉飯",
         "ingredients": [
-            {"ingredient":"", "amount": "", "unit":""}
+            {"ingredient":"豬五花肉", "amount": "1000", "unit":"克"},
+            {"ingredient":"蒜頭", "amount": "3", "unit":"顆"},
+            {"ingredient":"米酒", "amount": "1", "unit":"碗"},
+            {"ingredient":"冰糖", "amount": "1", "unit":"匙"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"茶匙"},
+            {"ingredient":"香葉", "amount": "2", "unit":"片"},
+            {"ingredient":"紅蔥頭", "amount": "3", "unit":"顆"},
+            {"ingredient":"醬油", "amount": "2", "unit":"碗"},
+            {"ingredient":"黑糖", "amount": "1", "unit":"匙"},
+            {"ingredient":"白胡椒粉", "amount": "1", "unit":"茶匙"},
+            {"ingredient":"八角", "amount": "1", "unit":"顆"}
         ],
-        "cooking_instructions":""
+        "cooking_instructions":"把紅蔥頭切細剁碎，蒜頭切末。把豬肉先切成1公分厚片，再切成肉條。等到鍋子燒熱，不用放油，五花肉下鍋鋪平、均勻受熱，翻炒到肉呈白色。繼續翻炒豬肉，炒出透明的豬油，把紅蔥頭倒入、炒出濃郁的油蔥香，再放入蒜末一起拌炒。把豬肉推到旁邊，放入冰糖、黑糖，加熱到融化冒泡、變成焦糖，再把豬肉一起翻拌、讓焦糖均勻附著。倒入醬油，先炒出醬油的香氣、再加水慢燉。嗆入米酒，把滷肉移到深鍋中，水加到淹過豬肉，加入白胡椒粉、五香粉、八角、香葉、水煮蛋，沸騰後轉小火滷1小時。滷到上色後，開大火收汁直到醬汁濃稠，整鍋滷肉靜置2~3小時。"
     },
     {
+        "cuisine_id":0,
         "cuisine_img_url": "",
         "cuisine_name": "",
         "ingredients": [

@@ -1,59 +1,46 @@
 [
     {
-        "cuisine_id": "476845",
-        "cuisine_img_url": "https://imageproxy.icook.network/fit?background=255%2C255%2C255&height=800&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F476845%2Fa7ab9c1e7d0d5c02.jpg&width=800",
-        "cuisine_name": "杏鮑菇蔥炒",
+        "cuisine_id":1,
+        "cuisine_img_url": "https://icook.tw/recipes/455986",
+        "cuisine_name": "滷肉飯",
         "ingredients": [
-            "杏鮑菇",
-            "青蔥",
-            "蒜末",
-            "食用油",
-            "鹽",
-            "白胡椒粉",
-            "醬油",
-            "料理米酒",
-            "香油"
+            {"ingredient": "五花肉", "amount": "500", "unit": "公克"},
+            {"ingredient": "白米", "amount": "2", "unit": "杯"},
+            {"ingredient": "紅蔥頭", "amount": "5", "unit": "顆"},
+            {"ingredient": "大蒜", "amount": "3", "unit": "瓣"},
+            {"ingredient": "醬油", "amount": "4", "unit": "湯匙"},
+            {"ingredient": "老抽", "amount": "1", "unit": "湯匙"},
+            {"ingredient": "冰糖", "amount": "20", "unit": "公克"},
+            {"ingredient": "五香粉", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "八角", "amount": "2", "unit": "顆"},
+            {"ingredient": "桂皮", "amount": "1", "unit": "小段"},
+            {"ingredient": "香菇", "amount": "4", "unit": "朵"},
+            {"ingredient": "水", "amount": "600", "unit": "毫升"}
         ],
-        "cooking_instructions": "杏鮑菇洗淨後切成細長條狀; 青蔥洗淨切段，蒜頭切末備用; 熱鍋加油，放入蒜末爆香; 加入杏鮑菇條，用中火炒至微軟; 加入調味料（鹽、白胡椒、醬油、料理酒）繼續翻炒; 最後加入蔥段快速翻炒均勻，起鍋前淋上少許香油提香; 起鍋盛盤即可食用"
+        "cooking_instructions": "1. 將五花肉切成小丁\n2. 紅蔥頭切碎，大蒜拍扁切碎\n3. 熱鍋加入少許油，爆香紅蔥頭直到金黃色\n4. 加入五花肉丁炒至變色\n5. 加入蒜末、醬油、老抽、冰糖、五香粉、八角和桂皮\n6. 放入泡軟的香菇\n7. 加入水蓋過食材\n8. 轉小火燉煮45-60分鐘，直到湯汁變濃稠\n9. 將滷肉淋在白飯上享用"
     },
     {
-        "cuisine_id": "477209",
-        "cuisine_img_url": "https://imageproxy.icook.network/fit?background=255%2C255%2C255&height=800&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F477209%2F087330c3ae0081af.jpg&width=800",
-        "cuisine_name": "醬燒胡蘿蔔肉捲",
+        "cuisine_id": 2,
+        "cuisine_img_url": "https://icook.tw/recipes/391516",
+        "cuisine_name": "滷肉飯",
         "ingredients": [
-          "胡蘿蔔",
-          "豬肉片",
-          "醬油",
-          "味醂",
-          "白芝麻",
-          "糖",
-          "香油",
-          "料理酒",
-          "鹽",
-          "胡椒粉"
+            {"ingredient": "五花肉", "amount": "500", "unit": "公克"},
+            {"ingredient": "白米", "amount": "2", "unit": "杯"},
+            {"ingredient": "紅蔥頭", "amount": "5", "unit": "顆"},
+            {"ingredient": "大蒜", "amount": "3", "unit": "瓣"},
+            {"ingredient": "醬油", "amount": "4", "unit": "湯匙"},
+            {"ingredient": "老抽", "amount": "1", "unit": "湯匙"},
+            {"ingredient": "冰糖", "amount": "20", "unit": "公克"},
+            {"ingredient": "五香粉", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "八角", "amount": "2", "unit": "顆"},
+            {"ingredient": "桂皮", "amount": "1", "unit": "小段"},
+            {"ingredient": "雞蛋", "amount": "4", "unit": "顆"},
+            {"ingredient": "小黃瓜", "amount": "1", "unit": "條"},
+            {"ingredient": "白醋", "amount": "1", "unit": "湯匙"},
+            {"ingredient": "細砂糖", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "鹽", "amount": "1/2", "unit": "茶匙"},
+            {"ingredient": "水", "amount": "600", "unit": "毫升"}
         ],
-        "cooking_instructions": "將胡蘿蔔洗淨切成適合大小的條狀（約6-7公分長）; 將胡蘿蔔用沸水川燙約2分鐘，取出冷卻備用; 豬肉片用鹽、胡椒粉調味; 將每條胡蘿蔔用一片豬肉捲起來，收口朝下排列在盤中; 熱鍋加入少許油，放入肉捲煎至表面微焦; 加入醬油、味醂、料理酒和糖調勻成醬汁，淋在肉捲上; 轉小火煮至醬汁收濃並均勻包裹肉捲; 起鍋前淋上少許香油，撒上白芝麻; 裝盤後可以搭配綠色蔬菜點綴"
-      },
-      {
-        "cuisine_id": "477211",
-        "cuisine_img_url": "https://imageproxy.icook.network/fit?background=255%2C255%2C255&height=800&nocrop=false&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F477211%2F83ceb69c7d7da054.jpg&width=800",
-        "cuisine_name": "醬爆豆腐牛肉",
-        "ingredients": [
-          "豆腐",
-          "牛肉絲",
-          "蔥",
-          "蒜頭",
-          "薑",
-          "醬油",
-          "料理酒",
-          "糖",
-          "豆瓣醬",
-          "食用油",
-          "太白粉",
-          "香油",
-          "辣椒絲"
-        ],
-        "cooking_instructions": "豆腐切成方塊，用廚房紙巾吸去多餘水分; 熱鍋倒入油，將豆腐放入煎至兩面金黃，取出備用; 牛肉切絲，用醬油、料理酒和少許太白粉醃15分鐘; 蔥切段，薑蒜切末，辣椒切絲; 鍋中加入少許油，先爆香蔥薑蒜; 加入牛肉絲快速翻炒至變色; 加入豆瓣醬炒出香氣; 放入煎好的豆腐塊，輕輕翻炒避免豆腐碎裂; 加入適量醬油、糖調味; 加入少量水和太白粉水勾芡，使醬汁均勻裹附在食材上; 最後淋上香油，撒上蔥花和辣椒絲點綴; 裝盤即可上桌"
+        "cooking_instructions": "1. 將五花肉切成小丁\n2. 紅蔥頭切碎，大蒜拍扁切碎\n3. 熱鍋加入少許油，爆香紅蔥頭直到金黃色\n4. 加入五花肉丁炒至變色\n5. 加入蒜末、醬油、老抽、冰糖、五香粉、八角和桂皮\n6. 加入水蓋過食材\n7. 轉小火燉煮45-60分鐘，直到湯汁變濃稠\n8. 準備滷蛋：將雞蛋煮熟後剝殼，放入滷肉汁中一起滷約20分鐘\n9. 準備涼拌小黃瓜：小黃瓜切薄片，加入白醋、細砂糖和鹽拌勻醃10分鐘\n10. 將滷肉淋在白飯上，配上滷蛋和涼拌小黃瓜一起享用"
     }
-
 ]
