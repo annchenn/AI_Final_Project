@@ -1,3 +1,4 @@
+#請問這道料理的名稱？這道料理需要的原了與烹飪步驟。
 from transformers import AutoTokenizer, AutoModel
 import torch
 import torch.nn.functional as F
