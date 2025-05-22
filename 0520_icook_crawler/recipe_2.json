@@ -1,4 +1,5 @@
-{
+[
+    {
         "cuisine_id":6,
         "cuisine_img_url": "https://icook.tw/recipes/473146",
         "cuisine_name": "鹹酥雞",
@@ -80,4 +81,5 @@
             {"ingredient":"地瓜粉", "amount": "1", "unit":"杯"}
         ],
         "cooking_instructions":"把蒜頭切碎，雞肉切丁後，將蒜頭、雞肉、五香粉、米酒、白胡椒、醋、醬油、醬油膏用手抓均勻醃製，封上保鮮膜放冰箱15分後拿出，沾地瓜粉後下鍋中火2-3分鐘到肉熟為止"
-    },
+    }
+]
