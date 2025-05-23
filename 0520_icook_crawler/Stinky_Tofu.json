@@ -16,29 +16,6 @@
     },
     {
         "cuisine_id": 12,
-        "cuisine_img_url": "https://icook.tw/recipes/415201",
-        "cuisine_name": "麻辣臭豆腐鴨血",
-        "ingredients": [
-            {"ingredient":"臭豆腐", "amount": "10", "unit":"塊"},
-            {"ingredient":"鴨血", "amount": "600", "unit":"g"},
-            {"ingredient":"乾香菇", "amount": "5", "unit":"朵"},
-            {"ingredient":"乾蝦米", "amount": "1", "unit":"大匙"},
-            {"ingredient":"酸菜", "amount": "100", "unit":"g"},
-            {"ingredient":"花椒", "amount": "1", "unit":"大匙"},
-            {"ingredient":"八角", "amount": "1", "unit":"顆"},
-            {"ingredient":"薑", "amount": "1", "unit":"小塊"},
-            {"ingredient":"蒜頭", "amount": "5", "unit":"瓣"},
-            {"ingredient":"辣豆瓣醬", "amount": "1", "unit":"大匙"},
-            {"ingredient":"雞高湯", "amount": "1000", "unit":"ml"},
-            {"ingredient":"醬油", "amount": "2", "unit":"大匙"},
-            {"ingredient":"砂糖", "amount": "2", "unit":"茶匙"},
-            {"ingredient":"白胡椒粉", "amount": "1", "unit":"茶匙"}
-        ],
-        "cooking_instructions": "把乾香菇泡水泡發，香菇水留著備用，蝦米(開陽)也用水泡軟、瀝乾。鴨血沖洗乾淨，切大塊，若有腥味可用鹽水川燙去腥。臭豆腐用清水沖去汁液，切對半。香菇切丁，蒜頭、薑切細末。取適量花椒，加一顆八角。酸菜洗淨切絲。熱鍋後倒入一大匙油，蝦米和香菇下鍋爆香，拌炒到飄出香味後，把蒜末、薑末、和花椒粒入鍋一起爆香。轉小火，放入豆瓣醬炒出辣油。加入高湯、香菇水煮滾。放入臭豆腐塊和鴨血，加一顆八角下鍋一起滷。煮滾後加蓋、轉小火滷1小時。",
-        "quantity": 5
-    },
-    {
-        "cuisine_id": 12,
         "cuisine_img_url": "https://ludaddylumalife.com/stinky-tofu/",
         "cuisine_name": "清蒸臭豆腐 (簡易電鍋版)",
         "ingredients": [
