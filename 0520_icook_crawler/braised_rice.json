@@ -1,0 +1,94 @@
+[
+    {
+        "cuisine_id":1,
+        "cuisine_url": "https://icook.tw/recipes/455986",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient": "五花肉", "amount": "2000", "unit":"克"},
+            {"ingredient": "洋蔥", "amount": "2", "unit":"顆"},
+            {"ingredient": "紅蔥頭末", "amount": "50", "unit":"克"},
+            {"ingredient": "蒜末", "amount": "50", "unit": "克"},
+            {"ingredient": "五香粉", "amount": "1", "unit":"小匙"},
+            {"ingredient":"醬油", "amount": "1", "unit": "杯"},
+            {"ingredient":"油膏", "amount": "0.5", "unit":"杯"},
+            {"ingredient":"紹興酒", "amount": "4", "unit":"大匙"},
+            {"ingredient":"冰糖", "amount": "50", "unit":"克"}
+        ],
+        "cooking_instructions": "小黃瓜洗淨後，去除頭尾，然後以菜刀拍碎; 將拍碎的小黃瓜切小段; 加入細砂糖拌勻，去菁15分鐘; 辣椒清洗後切成辣椒圈; 蒜頭清洗後切成蒜末; 用手將小黃瓜多餘的水份擠出，然後倒掉; 加入辣椒圈和蒜末; 加入醬油; 加入烏醋; 加入鹽; 淋上加熱後的植物油(淋熱油); 將所有食材拌勻即可食用; 於冰箱醃漬2小時以上會更入味更好吃; ",
+        "quantity":10
+    },
+    {
+        "cuisine_id":2,
+        "cuisine_url": "https://icook.tw/recipes/391516",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient":"豬五花肉", "amount": "1000", "unit":"克"},
+            {"ingredient":"蒜頭", "amount": "3", "unit":"顆"},
+            {"ingredient":"米酒", "amount": "1", "unit":"碗"},
+            {"ingredient":"冰糖", "amount": "1", "unit":"匙"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"茶匙"},
+            {"ingredient":"香葉", "amount": "2", "unit":"片"},
+            {"ingredient":"紅蔥頭", "amount": "3", "unit":"顆"},
+            {"ingredient":"醬油", "amount": "2", "unit":"碗"},
+            {"ingredient":"黑糖", "amount": "1", "unit":"匙"},
+            {"ingredient":"白胡椒粉", "amount": "1", "unit":"茶匙"},
+            {"ingredient":"八角", "amount": "1", "unit":"顆"}
+        ],
+        "cooking_instructions":"把紅蔥頭切細剁碎，蒜頭切末。把豬肉先切成1公分厚片，再切成肉條。等到鍋子燒熱，不用放油，五花肉下鍋鋪平、均勻受熱，翻炒到肉呈白色。繼續翻炒豬肉，炒出透明的豬油，把紅蔥頭倒入、炒出濃郁的油蔥香，再放入蒜末一起拌炒。把豬肉推到旁邊，放入冰糖、黑糖，加熱到融化冒泡、變成焦糖，再把豬肉一起翻拌、讓焦糖均勻附著。倒入醬油，先炒出醬油的香氣、再加水慢燉。嗆入米酒，把滷肉移到深鍋中，水加到淹過豬肉，加入白胡椒粉、五香粉、八角、香葉、水煮蛋，沸騰後轉小火滷1小時。滷到上色後，開大火收汁直到醬汁濃稠，整鍋滷肉靜置2~3小時。",
+        "quantity":8
+    },
+    {
+        "cuisine_id":3,
+        "cuisine_url": "https://www.coya.tw/recipe/meat/418",
+        "cuisine_name": "五香手切滷肉燥",
+        "ingredients": [
+            {"ingredient":"五花肉", "amount": "1", "unit":"斤"},
+            {"ingredient":"紅蔥頭", "amount": "80", "unit":"克"},
+            {"ingredient":"蒜頭", "amount": "40", "unit":"克"},
+            {"ingredient":"冰糖", "amount": "100", "unit":"克"},
+            {"ingredient":"豬油", "amount": "1", "unit":"大匙"},
+            {"ingredient":"熱水", "amount": "200", "unit":"毫升"},
+            {"ingredient":"紹興酒", "amount": "100", "unit":"毫升"},
+            {"ingredient":"醬油", "amount": "150", "unit":"毫升"},
+            {"ingredient":"水", "amount": "200", "unit":"毫升"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"小匙"},
+            {"ingredient":"白糊椒粉", "amount": "0.25", "unit":"小匙"},
+            {"ingredient":"糖", "amount": "1", "unit":"大匙"}
+        ],
+        "cooking_instructions":"起一鍋滾水川燙整條五花肉，撈起備用。準備蒜頭和紅蔥頭切末，蒜頭紅蔥頭處理好之後，將剛才川燙好的五花肉先切片(約1公分厚)再切成小塊狀。中小火熱鍋，將肥肉下鍋不要加蓋，約5~10分鐘就可以煸出豬油，將肥肉煸至縮水、呈現金黃色後夾出來，它就是豬油渣。取出豬油渣後，利用鍋子裡的豬油炸紅蔥頭，炒至紅蔥頭變成金黃色酥脆。接下來開始炒糖(這邊我換鑄鐵鍋)，鍋中下1大匙豬油(或沙拉油)和冰糖100g，開中火等糖融化，等糖溶化的過程不要用鍋鏟去炒它動它，讓糖靜靜的融。糖融化變深色沸騰起泡時加入200ml的熱水。等鍋中稍微平靜一點後就放入切好的五花肉煎熟，下蒜末拌炒，然後加入所有的酒水和調味料，煮滾後轉小火加蓋滷1~1.5個小時，最後30分鐘再將炸過的紅蔥頭全部加進去。",
+        "quantity":7
+    },
+    {
+        "cuisine_id":4,
+        "cuisine_img_url": "https://cookpad.com/tw/%E9%A3%9F%E8%AD%9C/10947414-%E5%8F%A4%E6%97%A9%E5%91%B3%E9%85%92%E9%A6%99%E6%BB%B7%E8%82%89%E9%A3%AF%E5%BF%AB%E9%80%9F%E7%89%88?ref=search&search_term=%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF",
+        "cuisine_name": "古早味酒香滷肉飯",
+        "ingredients": [
+            {"ingredient":"豬絞肉", "amount": "2", "unit":"斤"},
+            {"ingredient":"醬油", "amount": "150", "unit":"克"},
+            {"ingredient":"油蔥酥", "amount": "120", "unit":"克"},
+            {"ingredient":"紹興酒", "amount": "250", "unit":"克"},
+            {"ingredient":"冰糖", "amount": "1", "unit":"小碗"},
+            {"ingredient":"水", "amount": "1", "unit":"大碗"}
+        ],
+        "cooking_instructions":"先把絞肉先炒過。加醬油進去拌炒一下，讓所有的肉可以均勻上色。加入油蔥酥繼續炒。加入冰糖繼續炒，然後加入紹興酒，大滾ㄧ下，讓酒精蒸發、留下酒的香氣就好。最後加入一大碗的水，就是至少要蓋過滷肉，然後煮好之後可以在試一下味道，如果味道不夠可以在適量的加一些調味料（醬油或是冰糖等）。",
+        "quantity":10
+    },
+    {
+        "cuisine_id":5,
+        "cuisine_img_url": "https://cookpad.com/tw/%E9%A3%9F%E8%AD%9C/2086610-%E5%8F%A4%E6%97%A9%E5%91%B3%E6%89%8B%E5%88%87%E6%BB%B7%E8%82%89%E9%A3%AF?ref=search&search_term=%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF",
+        "cuisine_name": "古早味手切滷肉飯",
+        "ingredients": [
+            {"ingredient":"五花肉", "amount": "1000", "unit":"克"},
+            {"ingredient":"小洋蔥", "amount": "1", "unit":"顆"},
+            {"ingredient":"蒜末", "amount": "1", "unit":"大匙"},
+            {"ingredient":"油蔥酥", "amount": "1", "unit":"大匙"},
+            {"ingredient":"醬油", "amount": "2", "unit":"大匙"},
+            {"ingredient":"米酒", "amount": "1", "unit":"大匙"},
+            {"ingredient":"冰糖", "amount": "1", "unit":"匙"},
+            {"ingredient":"麥芽糖", "amount": "1", "unit":"大匙"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"小匙"}
+        ],
+        "cooking_instructions":"五花肉先川燙二分鐘後，拿起來沖冷水後，切成細條備用。乾鍋把五花肉放下去煎，讓油逼出來，等肉熟。再加入蒜末及洋蔥末炒香，再加入米酒和冰糖炒出香氣。香氣出來後，再把一大匙醬油和麥芽糖放下去炒入味。再加入一大匙醬油及二大碗水，煮到水滾後，移到電鍋的內鍋。拿去電鍋蒸五十分鐘，再加入五香粉及油蔥酥，再悶一小時即可。",
+        "quantity":10
+    }
+]
