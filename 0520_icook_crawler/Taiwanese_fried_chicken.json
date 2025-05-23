@@ -71,7 +71,7 @@
     },
     {
         "cuisine_id":10,
-        "cuisine_img_url": "https://icook.tw/recipes/472398",
+        "cuisine_img_url": "https://icook.tw/recipes/443155",
         "cuisine_name": "鹹酥雞",
         "ingredients": [
             {"ingredient":"雞胸肉", "amount": "1", "unit":"塊"},
