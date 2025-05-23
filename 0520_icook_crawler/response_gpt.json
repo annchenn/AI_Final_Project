@@ -56,5 +56,24 @@
         ],
         "cooking_instructions": "將雞腿肉切丁，加入醬油、米酒、蒜末、白胡椒粉與鹽拌勻，醃製30分鐘。醃好後均勻裹上太白粉。鍋中倒入適量油，油溫加熱至170°C，分批炸雞丁至金黃酥脆後撈起。另起鍋少許油，爆香蔥段與紅辣椒，再加入炸好的雞丁快速拌炒，撒上椒鹽粉拌勻即可上桌。",
         "quantity": 2
+    },
+    {
+        "cuisine_id":9,
+        "cuisine_img_url": "https://icook.tw/recipes/472398",
+        "cuisine_name": "蒜香鹽酥雞",
+        "ingredients": [
+        {"ingredient": "雞腿肉", "amount": "300", "unit": "克"},
+        {"ingredient": "醬油", "amount": "1", "unit": "小匙"},
+        {"ingredient": "米酒", "amount": "1", "unit": "小匙"},
+        {"ingredient": "蒜末", "amount": "1", "unit": "小匙"},
+        {"ingredient": "白胡椒粉", "amount": "1/4", "unit": "小匙"},
+        {"ingredient": "鹽", "amount": "1/4", "unit": "小匙"},
+        {"ingredient": "地瓜粉（或太白粉）", "amount": "適量", "unit": ""},
+        {"ingredient": "食用油", "amount": "適量", "unit": ""},
+        {"ingredient": "大蒜（切片）", "amount": "3", "unit": "瓣"},
+        {"ingredient": "椒鹽粉", "amount": "1", "unit": "小匙"}
+        ],
+        "cooking_instructions": "將雞腿肉切塊，用醬油、米酒、蒜末、白胡椒粉與鹽醃製30分鐘。醃好後均勻裹上地瓜粉。油鍋預熱至170°C，將雞塊分批炸至表面金黃酥脆後撈起。另起鍋少量油，爆香蒜片至微金黃，加入炸好的雞塊拌炒，最後撒上椒鹽粉拌勻即可上桌。",
+        "quantity": 2
     }
 ]
