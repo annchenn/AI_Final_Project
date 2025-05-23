@@ -1,0 +1,60 @@
+[
+    {
+        "cuisine_id":6,
+        "cuisine_img_url": "https://icook.tw/recipes/473146",
+        "cuisine_name": "炸雞塊",
+        "ingredients": [
+        {"ingredient": "雞腿肉或雞胸肉", "amount": "300", "unit": "克"},
+        {"ingredient": "蒜末", "amount": "1", "unit": "小匙"},
+        {"ingredient": "醬油", "amount": "1", "unit": "小匙"},
+        {"ingredient": "米酒", "amount": "1", "unit": "小匙"},
+        {"ingredient": "黑胡椒粉", "amount": "1", "unit": "適量"},
+        {"ingredient": "鹽", "amount": "1/4", "unit": "小匙"},
+        {"ingredient": "蛋液", "amount": "1", "unit": "顆"},
+        {"ingredient": "太白粉或玉米粉", "amount": "1", "unit": "適量"},
+        {"ingredient": "麵包粉", "amount": "1", "unit": "適量"},
+        {"ingredient": "食用油", "amount": "1", "unit": "適量"}
+        ],
+        "cooking_instructions": "將雞肉切塊後與蒜末、醬油、米酒、黑胡椒與鹽拌勻，醃製15至30分鐘。醃好後依序裹上太白粉、蛋液與麵包粉，壓緊粉衣。鍋中倒入食用油，加熱至約170°C，將雞塊分批炸至金黃酥脆，約4至5分鐘，撈起瀝油後即可享用。",
+        "quantity": 2
+    },
+    {
+        "cuisine_id":7,
+        "cuisine_img_url": "https://icook.tw/recipes/476980",
+        "cuisine_name": "鹹酥雞",
+        "ingredients": [
+        {"ingredient": "雞胸肉", "amount": "600", "unit": "克"},
+        {"ingredient": "醬油", "amount": "2", "unit": "大匙"},
+        {"ingredient": "米酒", "amount": "1", "unit": "大匙"},
+        {"ingredient": "蒜末", "amount": "1", "unit": "大匙"},
+        {"ingredient": "五香粉", "amount": "1/2", "unit": "小匙"},
+        {"ingredient": "白胡椒粉", "amount": "1/2", "unit": "小匙"},
+        {"ingredient": "糖", "amount": "1", "unit": "小匙"},
+        {"ingredient": "地瓜粉", "amount": "1", "unit": "適量"},
+        {"ingredient": "九層塔（可選）", "amount": "1", "unit": "把"},
+        {"ingredient": "食用油", "amount": "1", "unit": "適量"}
+        ],
+        "cooking_instructions": "將雞胸肉切成適口大小後，與醬油、米酒、蒜末、五香粉、白胡椒粉與糖拌勻，醃製30分鐘至1小時。醃好後將雞肉均勻裹上地瓜粉。鍋中倒入食用油，預熱至約170°C，分批將雞肉下鍋油炸約5至6分鐘，炸至表面酥脆金黃撈起瀝油。可於最後30秒加入九層塔快炸，增添香氣。全部炸好後趁熱撒上適量白胡椒或鹹酥雞粉調味，即可享用。",
+        "quantity": 4
+    },
+    {
+        "cuisine_id":8,
+        "cuisine_img_url": "https://icook.tw/recipes/471168",
+        "cuisine_name": "椒鹽雞丁",
+        "ingredients": [
+        {"ingredient": "雞腿肉", "amount": "300", "unit": "克"},
+        {"ingredient": "醬油", "amount": "1", "unit": "小匙"},
+        {"ingredient": "米酒", "amount": "1", "unit": "小匙"},
+        {"ingredient": "蒜末", "amount": "1", "unit": "小匙"},
+        {"ingredient": "白胡椒粉", "amount": "1/4", "unit": "小匙"},
+        {"ingredient": "鹽", "amount": "1/4", "unit": "小匙"},
+        {"ingredient": "太白粉", "amount": "1", "unit": "適量"},
+        {"ingredient": "食用油", "amount": "1", "unit": "適量"},
+        {"ingredient": "青蔥", "amount": "1", "unit": "根"},
+        {"ingredient": "紅辣椒", "amount": "1", "unit": "根"},
+        {"ingredient": "椒鹽粉", "amount": "1", "unit": "小匙"}
+        ],
+        "cooking_instructions": "將雞腿肉切丁，加入醬油、米酒、蒜末、白胡椒粉與鹽拌勻，醃製30分鐘。醃好後均勻裹上太白粉。鍋中倒入適量油，油溫加熱至170°C，分批炸雞丁至金黃酥脆後撈起。另起鍋少許油，爆香蔥段與紅辣椒，再加入炸好的雞丁快速拌炒，撒上椒鹽粉拌勻即可上桌。",
+        "quantity": 2
+    }
+]
