@@ -1,5 +1,73 @@
 [
-    
+    {
+        "cuisine_id": 1,
+        "cuisine_url": "https://icook.tw/recipes/455986",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient": "五花肉", "amount": "1.2", "unit": "公斤"},
+            {"ingredient": "紅蔥頭", "amount": "150", "unit": "克"},
+            {"ingredient": "蒜頭", "amount": "10", "unit": "瓣"},
+            {"ingredient": "醬油", "amount": "180", "unit": "毫升"},
+            {"ingredient": "米酒", "amount": "120", "unit": "毫升"},
+            {"ingredient": "冰糖", "amount": "30", "unit": "克"},
+            {"ingredient": "白胡椒粉", "amount": "1.5", "unit": "小匙"},
+            {"ingredient": "水", "amount": "900", "unit": "毫升"},
+            {"ingredient": "滷蛋（可選）", "amount": "10", "unit": "顆"},
+            {"ingredient": "白飯", "amount": "10", "unit": "碗"}
+        ],
+        "cooking_instructions": "將五花肉切成小丁，紅蔥頭切片、蒜頭拍碎。熱鍋加少許油，爆香紅蔥頭與蒜頭，加入五花肉煎炒至出油上色。加入醬油、米酒、冰糖、白胡椒粉繼續拌炒。加入水後轉中小火燉煮約40分鐘，期間可放入滷蛋一起滷製。完成後將滷肉盛於白飯上，即可享用。",
+        "quantity": 10
+    },
+    {
+        "cuisine_id": 2,
+        "cuisine_img_url": "https://icook.tw/recipes/391516",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient": "五花肉", "amount": "1.2", "unit": "公斤"},
+            {"ingredient": "紅蔥頭", "amount": "150", "unit": "克"},
+            {"ingredient": "蒜頭", "amount": "8", "unit": "瓣"},
+            {"ingredient": "醬油", "amount": "180", "unit": "毫升"},
+            {"ingredient": "冰糖", "amount": "60", "unit": "克"},
+            {"ingredient": "米酒", "amount": "100", "unit": "毫升"},
+            {"ingredient": "水", "amount": "600", "unit": "毫升"},
+            {"ingredient": "五香粉", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "白胡椒粉", "amount": "0.5", "unit": "茶匙"},
+            {"ingredient": "滷蛋", "amount": "8", "unit": "顆"},
+            {"ingredient": "小黃瓜", "amount": "2", "unit": "條"},
+            {"ingredient": "白飯", "amount": "8", "unit": "碗"}
+        ],
+        "cooking_instructions": "將五花肉切成小丁，紅蔥頭與蒜頭切碎。熱鍋後加入少許油，先將紅蔥頭與蒜頭炒香，再加入五花肉炒至變色並略出油。加入醬油、冰糖、米酒、水、五香粉與白胡椒粉，攪拌均勻後轉小火燉煮約60分鐘，期間可加入滷蛋一同煮至入味。小黃瓜切片備用。將煮好的滷肉淋在白飯上，搭配滷蛋與小黃瓜片即可享用。",
+        "quantity": 8
+    },
+    {
+        "cuisine_id":3,
+        "cuisine_url": "https://www.coya.tw/recipe/meat/418",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient": "五花肉", "amount": "700", "unit": "克"},
+            {"ingredient": "紅蔥頭", "amount": "8", "unit": "顆"},
+            {"ingredient": "蒜頭", "amount": "6", "unit": "瓣"},
+            {"ingredient": "醬油", "amount": "120", "unit": "毫升"},
+            {"ingredient": "冰糖", "amount": "2", "unit": "大匙"},
+            {"ingredient": "米酒", "amount": "100", "unit": "毫升"},
+            {"ingredient": "水", "amount": "400", "unit": "毫升"},
+            {"ingredient": "五香粉", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "滷蛋", "amount": "7", "unit": "顆"},
+            {"ingredient": "白飯", "amount": "7", "unit": "碗"}
+        ],
+        "cooking_instructions": "紅蔥頭和蒜頭切碎，五花肉切小丁。熱鍋下少量油，先炒香紅蔥頭和蒜頭，再加入五花肉丁煸炒至出油略焦。加入醬油、冰糖、米酒、水與五香粉拌勻，小火燉煮約40分鐘，期間可加入滷蛋一同燉煮。收汁至濃稠後，將滷肉與滷蛋盛於熱白飯上即可食用。",
+        "quantity": 7
+    },
+    {
+        "cuisine_id":4,
+        "cuisine_img_url": "https://cookpad.com/tw/%E9%A3%9F%E8%AD%9C/10947414-%E5%8F%A4%E6%97%A9%E5%91%B3%E9%85%92%E9%A6%99%E6%BB%B7%E8%82%89%E9%A3%AF%E5%BF%AB%E9%80%9F%E7%89%88?ref=search&search_term=%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF",
+        "quantity": 10
+    },
+    {
+        "cuisine_id":5,
+        "cuisine_img_url": "https://cookpad.com/tw/%E9%A3%9F%E8%AD%9C/2086610-%E5%8F%A4%E6%97%A9%E5%91%B3%E6%89%8B%E5%88%87%E6%BB%B7%E8%82%89%E9%A3%AF?ref=search&search_term=%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF",
+        "quantity": 10
+    },
     {
         "cuisine_id":6,
         "cuisine_img_url": "https://icook.tw/recipes/473146",
