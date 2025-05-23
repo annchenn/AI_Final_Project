@@ -1,22 +1,41 @@
 [
     {
         "cuisine_id": 11,
-        "cuisine_img_url": "https://icook.tw/recipes/423477",
-        "cuisine_name": "清蒸臭豆腐 (Emma - 愛料理)",
+        "cuisine_img_url": "https://icook.tw/recipes/283278",
+        "cuisine_name": "［電鍋料理］清蒸臭豆腐",
         "ingredients": [
-            {"ingredient":"臭豆腐", "amount": "2", "unit":"塊"},
-            {"ingredient":"乾香菇", "amount": "5", "unit":"朵"},
-            {"ingredient":"新鮮香菇", "amount": "2", "unit":"朵"},
-            {"ingredient":"紅辣椒", "amount": "1", "unit":"根"},
-            {"ingredient":"蒜頭", "amount": "10", "unit":"克"},
-            {"ingredient":"毛豆", "amount": "30", "unit":"克"},
-            {"ingredient":"香油", "amount": "1", "unit":"少許"},
-            {"ingredient":"辣豆瓣醬", "amount": "45", "unit":"克"},
-            {"ingredient":"香菇素蠔油", "amount": "15", "unit":"克"},
-            {"ingredient":"二砂糖", "amount": "10", "unit":"克"}
+            {"ingredient":"臭豆腐", "amount": "4", "unit":"塊"},
+            {"ingredient":"乾香菇", "amount": "2", "unit":"朵"},
+            {"ingredient":"毛豆仁", "amount": "酌量", "unit":""},
+            {"ingredient":"XO干貝醬", "amount": "4", "unit":"小匙"},
+            {"ingredient":"鰹魚淡醬油", "amount": "2-3", "unit":"匙"},
+            {"ingredient":"金針菇", "amount": "酌量", "unit":""}
         ],
-        "cooking_instructions": "準備好所需要的食材。臭豆腐和毛豆洗淨、蒜頭切末、辣椒切末、開陽清洗乾淨、乾香菇泡軟切丁、新鮮香菇也切丁。把臭豆腐劃刀(讓醬料味道容易滲入)，備用。起油鍋放入香菇丁、新鮮香菇丁、蒜末、開陽炒出香氣，加入辣豆瓣醬拌炒出醬香味、放入香菇素蠔油、糖翻拌均勻後再入適量的水拌炒均勻煮滾，備用。將拌炒的料舖放在臭豆腐上，將臭豆腐移至到已煮滾水的蒸籠中蓋上鍋蓋用大火蒸煮10分鐘。將毛豆(已汆燙過)放入蒸1分鐘即可。淋些香油提香，即可上桌品嚐囉",
-        "quantity": 4
+        "cooking_instructions": "乾香菇先用水泡軟後，切細條狀。新鮮（生）毛豆仁洗淨後用水燙煮大約3分鐘，將豆仁的薄膜撥掉。臭豆腐取出所需的份量用水洗淨備用。（金針菇洗淨備用。）將洗淨的金針菇撥開鋪在最底層，臭豆腐上下兩面都用刀在中心劃十字（以利吸汁入味），鋪在金針菇上。放上毛豆仁、香菇後，在每塊臭豆腐上都放一小湯匙XO干貝醬，再淋上淡醬油。放入電鍋以外鍋1/2量杯水蒸熟，要吃的時候再取出即可。",
+        "quantity": 2
+    },
+    {
+        "cuisine_id": 12,
+        "cuisine_img_url": "https://icook.tw/recipes/415201",
+        "cuisine_name": "麻辣臭豆腐鴨血",
+        "ingredients": [
+            {"ingredient":"臭豆腐", "amount": "10", "unit":"塊"},
+            {"ingredient":"鴨血", "amount": "600", "unit":"g"},
+            {"ingredient":"乾香菇", "amount": "5", "unit":"朵"},
+            {"ingredient":"乾蝦米", "amount": "1", "unit":"大匙"},
+            {"ingredient":"酸菜", "amount": "100", "unit":"g"},
+            {"ingredient":"花椒", "amount": "1", "unit":"大匙"},
+            {"ingredient":"八角", "amount": "1", "unit":"顆"},
+            {"ingredient":"薑", "amount": "1", "unit":"小塊"},
+            {"ingredient":"蒜頭", "amount": "5", "unit":"瓣"},
+            {"ingredient":"辣豆瓣醬", "amount": "1", "unit":"大匙"},
+            {"ingredient":"雞高湯", "amount": "1000", "unit":"ml"},
+            {"ingredient":"醬油", "amount": "2", "unit":"大匙"},
+            {"ingredient":"砂糖", "amount": "2", "unit":"茶匙"},
+            {"ingredient":"白胡椒粉", "amount": "1", "unit":"茶匙"}
+        ],
+        "cooking_instructions": "把乾香菇泡水泡發，香菇水留著備用，蝦米(開陽)也用水泡軟、瀝乾。鴨血沖洗乾淨，切大塊，若有腥味可用鹽水川燙去腥。臭豆腐用清水沖去汁液，切對半。香菇切丁，蒜頭、薑切細末。取適量花椒，加一顆八角。酸菜洗淨切絲。熱鍋後倒入一大匙油，蝦米和香菇下鍋爆香，拌炒到飄出香味後，把蒜末、薑末、和花椒粒入鍋一起爆香。轉小火，放入豆瓣醬炒出辣油。加入高湯、香菇水煮滾。放入臭豆腐塊和鴨血，加一顆八角下鍋一起滷。煮滾後加蓋、轉小火滷1小時。",
+        "quantity": 5
     },
     {
         "cuisine_id": 12,
