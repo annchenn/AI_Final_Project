@@ -147,22 +147,22 @@
     {
         "cuisine_id":8,
         "cuisine_img_url": "https://icook.tw/recipes/471168",
-        "cuisine_name": "椒鹽雞軟骨",
+        "cuisine_name": "鹽酥雞",
         "ingredients": [
-            {"ingredient": "雞軟骨", "amount": "300", "unit": "克"},
+            {"ingredient": "雞胸肉", "amount": "300", "unit": "克"},
             {"ingredient": "地瓜粉", "amount": "100", "unit": "克"},
-            {"ingredient": "雞蛋", "amount": "1", "unit": "顆"},
-            {"ingredient": "蒜頭", "amount": "3", "unit": "瓣"},
-            {"ingredient": "青椒", "amount": "1", "unit": "條"},
-            {"ingredient": "紅椒", "amount": "1", "unit": "條"},
-            {"ingredient": "青蔥", "amount": "2", "unit": "根"},
-            {"ingredient": "鹽", "amount": "1", "unit": "茶匙"},
-            {"ingredient": "白胡椒粉", "amount": "1", "unit": "茶匙"},
-            {"ingredient": "五香粉", "amount": "1/2", "unit": "茶匙"},
+            {"ingredient": "太白粉", "amount": "30", "unit": "克"},
+            {"ingredient": "蒜頭", "amount": "4", "unit": "瓣"},
+            {"ingredient": "蔥", "amount": "2", "unit": "根"},
+            {"ingredient": "辣椒", "amount": "1", "unit": "根"},
+            {"ingredient": "醬油", "amount": "2", "unit": "大匙"},
             {"ingredient": "米酒", "amount": "1", "unit": "大匙"},
-            {"ingredient": "食用油", "amount": "適量", "unit": ""}
+            {"ingredient": "鹽酥雞粉", "amount": "1", "unit": "包"},
+            {"ingredient": "胡椒粉", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "食用油", "amount": "適量", "unit": ""},
+            {"ingredient": "雞蛋", "amount": "1", "unit": "顆"}
         ],
-        "cooking_instructions": "雞軟骨洗淨後用米酒、鹽醃製15分鐘。蒜頭切末，青紅椒切小段，青蔥切段備用。將醃好的雞軟骨沾蛋液後裹上地瓜粉。熱油至170度，放入雞軟骨炸至金黃酥脆撈起瀝油。另起鍋放少許油，爆香蒜末，加入青紅椒段炒香。倒入炸好的雞軟骨快速拌炒，撒入鹽、白胡椒粉、五香粉調味。最後加入蔥段拌勻即可起鍋。",
+        "cooking_instructions": "將雞胸肉切成一口大小的塊狀，用醬油、米酒醃製15分鐘。蒜頭切末，蔥切段，辣椒切片備用。將地瓜粉和太白粉混合，打散雞蛋。醃好的雞肉先沾蛋液，再裹上粉料。油溫加熱至170度，將裹粉的雞肉下鍋炸約3-4分鐘至表面金黃。撈起瀝油後，將油溫提高至180度，進行第二次油炸約1分鐘讓外皮更酥脆。起鍋瀝油後立即撒上鹽酥雞粉、胡椒粉，加入蒜末、蔥段、辣椒片拌勻即可享用。",
         "quantity": 2
     },
     {
