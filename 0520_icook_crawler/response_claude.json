@@ -1,0 +1,301 @@
+[
+    {
+        "cuisine_id": 1,
+        "cuisine_url": "https://icook.tw/recipes/455986",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient": "豬五花肉", "amount": "1500", "unit": "公克"},
+            {"ingredient": "紅蔥頭", "amount": "150", "unit": "公克"},
+            {"ingredient": "蒜頭", "amount": "50", "unit": "公克"},
+            {"ingredient": "醬油", "amount": "200", "unit": "毫升"},
+            {"ingredient": "老抽", "amount": "50", "unit": "毫升"},
+            {"ingredient": "米酒", "amount": "100", "unit": "毫升"},
+            {"ingredient": "冰糖", "amount": "80", "unit": "公克"},
+            {"ingredient": "五香粉", "amount": "5", "unit": "公克"},
+            {"ingredient": "白胡椒粉", "amount": "3", "unit": "公克"},
+            {"ingredient": "水", "amount": "500", "unit": "毫升"},
+            {"ingredient": "白飯", "amount": "10", "unit": "碗"},
+            {"ingredient": "水煮蛋", "amount": "10", "unit": "顆"}
+        ],
+        "cooking_instructions": "將豬五花肉切成約1公分小丁備用，紅蔥頭切片，蒜頭拍碎切末。熱鍋下少許油，將紅蔥頭片炸至金黃酥脆撈起備用。利用鍋中剩餘的蔥油，下豬肉丁炒至微焦出油，加入蒜末爆香，再倒入米酒炒勻。加入醬油、老抽、冰糖、五香粉、白胡椒粉拌炒上色。倒入熱水，加入炸好的紅蔥酥，大火煮滾後轉小火，蓋鍋燜煮1-1.5小時至肉質軟爛，湯汁濃稠。期間可加入水煮蛋一同滷製約30分鐘。將滷肉淋在熱騰騰的白飯上即可享用。",
+        "quantity": 10
+    },
+    {
+        "cuisine_id": 2,
+        "cuisine_img_url": "https://icook.tw/recipes/391516",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient": "豬五花肉", "amount": "1200", "unit": "公克"},
+            {"ingredient": "紅蔥頭", "amount": "120", "unit": "公克"},
+            {"ingredient": "蒜頭", "amount": "40", "unit": "公克"},
+            {"ingredient": "醬油", "amount": "160", "unit": "毫升"},
+            {"ingredient": "老抽", "amount": "40", "unit": "毫升"},
+            {"ingredient": "米酒", "amount": "80", "unit": "毫升"},
+            {"ingredient": "冰糖", "amount": "60", "unit": "公克"},
+            {"ingredient": "五香粉", "amount": "4", "unit": "公克"},
+            {"ingredient": "白胡椒粉", "amount": "2", "unit": "公克"},
+            {"ingredient": "水", "amount": "400", "unit": "毫升"},
+            {"ingredient": "白飯", "amount": "8", "unit": "碗"},
+            {"ingredient": "水煮蛋", "amount": "8", "unit": "顆"},
+            {"ingredient": "小黃瓜", "amount": "2", "unit": "條"}
+        ],
+        "cooking_instructions": "將豬五花肉切成約1公分小丁備用，紅蔥頭切片，蒜頭拍碎切末。熱鍋下少許油，將紅蔥頭片炸至金黃酥脆撈起備用。利用鍋中剩餘的蔥油，下豬肉丁炒至微焦出油，加入蒜末爆香，再倒入米酒炒勻。加入醬油、老抽、冰糖、五香粉、白胡椒粉拌炒上色。倒入熱水，加入炸好的紅蔥酥，大火煮滾後轉小火，蓋鍋燜煮1-1.5小時至肉質軟爛，湯汁濃稠。期間可加入水煮蛋一同滷製約30分鐘。小黃瓜洗淨切薄片備用。將滷肉淋在熱騰騰的白飯上，搭配滷蛋和小黃瓜片即可享用。",
+        "quantity": 8
+    },
+    {
+        "cuisine_id":3,
+        "cuisine_url": "https://www.coya.tw/recipe/meat/418",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient": "豬五花肉", "amount": "1050", "unit": "公克"},
+            {"ingredient": "紅蔥頭", "amount": "105", "unit": "公克"},
+            {"ingredient": "蒜頭", "amount": "35", "unit": "公克"},
+            {"ingredient": "醬油", "amount": "140", "unit": "毫升"},
+            {"ingredient": "老抽", "amount": "35", "unit": "毫升"},
+            {"ingredient": "米酒", "amount": "70", "unit": "毫升"},
+            {"ingredient": "冰糖", "amount": "56", "unit": "公克"},
+            {"ingredient": "五香粉", "amount": "3.5", "unit": "公克"},
+            {"ingredient": "白胡椒粉", "amount": "2", "unit": "公克"},
+            {"ingredient": "水", "amount": "350", "unit": "毫升"},
+            {"ingredient": "白飯", "amount": "7", "unit": "碗"},
+            {"ingredient": "水煮蛋", "amount": "7", "unit": "顆"}
+        ],
+        "cooking_instructions": "將豬五花肉切成約1公分小丁備用，紅蔥頭切片，蒜頭拍碎切末。熱鍋下少許油，將紅蔥頭片炸至金黃酥脆撈起備用。利用鍋中剩餘的蔥油，下豬肉丁炒至微焦出油，加入蒜末爆香，再倒入米酒炒勻。加入醬油、老抽、冰糖、五香粉、白胡椒粉拌炒上色。倒入熱水，加入炸好的紅蔥酥，大火煮滾後轉小火，蓋鍋燜煮1-1.5小時至肉質軟爛，湯汁濃稠。期間可加入水煮蛋一同滷製約30分鐘。將滷肉淋在熱騰騰的白飯上，搭配滷蛋即可享用。",
+        "quantity": 7
+    },
+    {
+        "cuisine_id":4,
+        "cuisine_img_url": "https://cookpad.com/tw/%E9%A3%9F%E8%AD%9C/10947414-%E5%8F%A4%E6%97%A9%E5%91%B3%E9%85%92%E9%A6%99%E6%BB%B7%E8%82%89%E9%A3%AF%E5%BF%AB%E9%80%9F%E7%89%88?ref=search&search_term=%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient": "豬五花肉", "amount": "1500", "unit": "公克"},
+            {"ingredient": "紅蔥頭", "amount": "150", "unit": "公克"},
+            {"ingredient": "蒜頭", "amount": "50", "unit": "公克"},
+            {"ingredient": "洋蔥", "amount": "200", "unit": "公克"},
+            {"ingredient": "醬油", "amount": "200", "unit": "毫升"},
+            {"ingredient": "老抽", "amount": "50", "unit": "毫升"},
+            {"ingredient": "米酒", "amount": "100", "unit": "毫升"},
+            {"ingredient": "冰糖", "amount": "80", "unit": "公克"},
+            {"ingredient": "五香粉", "amount": "5", "unit": "公克"},
+            {"ingredient": "白胡椒粉", "amount": "3", "unit": "公克"},
+            {"ingredient": "水", "amount": "500", "unit": "毫升"},
+            {"ingredient": "白飯", "amount": "10", "unit": "碗"}
+        ],
+        "cooking_instructions": "將豬五花肉切成約1公分小丁備用，紅蔥頭切片，蒜頭拍碎切末，洋蔥切絲。熱鍋下少許油，將紅蔥頭片炸至金黃酥脆撈起備用。利用鍋中剩餘的蔥油，下豬肉丁炒至微焦出油，加入蒜末和洋蔥絲爆香，再倒入米酒炒勻。加入醬油、老抽、冰糖、五香粉、白胡椒粉拌炒上色。倒入熱水，加入炸好的紅蔥酥，大火煮滾後轉小火，蓋鍋燜煮1-1.5小時至肉質軟爛，湯汁濃稠。將滷肉淋在熱騰騰的白飯上即可享用。",
+        "quantity": 10
+    },
+    {
+        "cuisine_id":5,
+        "cuisine_img_url": "https://cookpad.com/tw/%E9%A3%9F%E8%AD%9C/2086610-%E5%8F%A4%E6%97%A9%E5%91%B3%E6%89%8B%E5%88%87%E6%BB%B7%E8%82%89%E9%A3%AF?ref=search&search_term=%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient": "豬五花肉", "amount": "1500", "unit": "公克"},
+            {"ingredient": "紅蔥頭", "amount": "150", "unit": "公克"},
+            {"ingredient": "蒜頭", "amount": "50", "unit": "公克"},
+            {"ingredient": "醬油", "amount": "200", "unit": "毫升"},
+            {"ingredient": "老抽", "amount": "50", "unit": "毫升"},
+            {"ingredient": "米酒", "amount": "100", "unit": "毫升"},
+            {"ingredient": "冰糖", "amount": "80", "unit": "公克"},
+            {"ingredient": "五香粉", "amount": "5", "unit": "公克"},
+            {"ingredient": "白胡椒粉", "amount": "3", "unit": "公克"},
+            {"ingredient": "水", "amount": "500", "unit": "毫升"},
+            {"ingredient": "白飯", "amount": "10", "unit": "碗"}
+        ],
+        "cooking_instructions": "將豬五花肉切成約8毫米小丁備用，紅蔥頭切片，蒜頭拍碎切末。熱鍋下少許油，將紅蔥頭片炸至金黃酥脆撈起備用。利用鍋中剩餘的蔥油，下豬肉丁炒至微焦出油，加入蒜末爆香，再倒入米酒炒勻。加入醬油、老抽、冰糖、五香粉、白胡椒粉拌炒上色。倒入熱水，加入炸好的紅蔥酥，大火煮滾後轉小火，蓋鍋燜煮1-1.5小時至肉質軟爛入味，湯汁濃稠呈現深褐色澤。將滷肉淋在熱騰騰的白飯上即可享用。",
+        "quantity": 10
+    },
+    {
+        "cuisine_id":6,
+        "cuisine_img_url": "https://icook.tw/recipes/473146",
+        "cuisine_name": "炸雞塊",
+        "ingredients": [
+            {"ingredient": "雞胸肉", "amount": "400", "unit": "公克"},
+            {"ingredient": "雞蛋", "amount": "2", "unit": "顆"},
+            {"ingredient": "麵粉", "amount": "100", "unit": "公克"},
+            {"ingredient": "麵包粉", "amount": "150", "unit": "公克"},
+            {"ingredient": "鹽", "amount": "5", "unit": "公克"},
+            {"ingredient": "黑胡椒粉", "amount": "3", "unit": "公克"},
+            {"ingredient": "蒜粉", "amount": "3", "unit": "公克"},
+            {"ingredient": "洋蔥粉", "amount": "2", "unit": "公克"},
+            {"ingredient": "辣椒粉", "amount": "2", "unit": "公克"},
+            {"ingredient": "食用油", "amount": "500", "unit": "毫升"}
+        ],
+        "cooking_instructions": "將雞胸肉洗淨擦乾，切成一口大小的塊狀，用鹽和黑胡椒粉醃製15分鐘。準備三個容器，第一個放麵粉，第二個打散雞蛋，第三個將麵包粉與蒜粉、洋蔥粉、辣椒粉混合均勻。醃好的雞肉先沾麵粉，再沾蛋液，最後裹上調味麵包粉，確保每塊雞肉都均勻裹粉。熱油至170-180度，將裹粉的雞塊放入油鍋中炸3-4分鐘至表面金黃酥脆，內部熟透。撈起瀝油即可享用，搭配番茄醬或蜂蜜芥末醬更美味。",
+        "quantity": 2
+    },
+    {
+        "cuisine_id":7,
+        "cuisine_img_url": "https://icook.tw/recipes/476980",
+        "cuisine_name": "炸雞塊",
+        "ingredients": [
+            {"ingredient": "雞腿肉", "amount": "600", "unit": "克"},
+            {"ingredient": "地瓜粉", "amount": "150", "unit": "克"},
+            {"ingredient": "太白粉", "amount": "50", "unit": "克"},
+            {"ingredient": "醬油", "amount": "3", "unit": "大匙"},
+            {"ingredient": "米酒", "amount": "2", "unit": "大匙"},
+            {"ingredient": "蒜泥", "amount": "2", "unit": "瓣"},
+            {"ingredient": "薑泥", "amount": "1", "unit": "小匙"},
+            {"ingredient": "白胡椒粉", "amount": "1", "unit": "小匙"},
+            {"ingredient": "鹽", "amount": "1", "unit": "小匙"},
+            {"ingredient": "糖", "amount": "1", "unit": "小匙"},
+            {"ingredient": "雞蛋", "amount": "1", "unit": "顆"},
+            {"ingredient": "食用油", "amount": "適量", "unit": ""}
+        ],
+        "cooking_instructions": "將雞腿肉切成一口大小的塊狀。製作醃料：將醬油、米酒、蒜泥、薑泥、白胡椒粉、鹽、糖混合均勻。將雞肉塊放入醃料中，醃製30分鐘以上。製作粉漿：將地瓜粉、太白粉混合，加入蛋液和少許水調成濃稠粉漿。將醃好的雞肉沾裹粉漿。熱油至160-170°C，將雞肉塊下鍋炸至表面呈金黃色。撈起瀝油，靜置2-3分鐘後再次下鍋炸30秒至酥脆。撈起瀝油即可享用。",
+        "quantity": 4
+    },
+    {
+        "cuisine_id":8,
+        "cuisine_img_url": "https://icook.tw/recipes/471168",
+        
+        "quantity": 2
+    },
+    {
+        "cuisine_id":9,
+        "cuisine_img_url": "https://icook.tw/recipes/472398",
+        "cuisine_name": "椒鹽雞軟骨",
+        "ingredients": [
+            {"ingredient": "雞軟骨", "amount": "300", "unit": "克"},
+            {"ingredient": "地瓜粉", "amount": "100", "unit": "克"},
+            {"ingredient": "雞蛋", "amount": "1", "unit": "顆"},
+            {"ingredient": "蒜頭", "amount": "3", "unit": "瓣"},
+            {"ingredient": "青椒", "amount": "1", "unit": "條"},
+            {"ingredient": "紅椒", "amount": "1", "unit": "條"},
+            {"ingredient": "青蔥", "amount": "2", "unit": "根"},
+            {"ingredient": "鹽", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "白胡椒粉", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "五香粉", "amount": "1/2", "unit": "茶匙"},
+            {"ingredient": "米酒", "amount": "1", "unit": "大匙"},
+            {"ingredient": "食用油", "amount": "適量", "unit": ""}
+        ],
+        "cooking_instructions": "雞軟骨洗淨後用米酒、鹽醃製15分鐘。蒜頭切末，青紅椒切小段，青蔥切段備用。將醃好的雞軟骨沾蛋液後裹上地瓜粉。熱油至170度，放入雞軟骨炸至金黃酥脆撈起瀝油。另起鍋放少許油，爆香蒜末，加入青紅椒段炒香。倒入炸好的雞軟骨快速拌炒，撒入鹽、白胡椒粉、五香粉調味。最後加入蔥段拌勻即可起鍋。",
+        "quantity": 2
+    },
+    {
+        "cuisine_id":10,
+        "cuisine_img_url": "https://icook.tw/recipes/472398",
+        "cuisine_name": "蒜泥白肉",
+        "ingredients": [
+            {"ingredient": "豬五花肉", "amount": "300", "unit": "克"},
+            {"ingredient": "大蒜", "amount": "6", "unit": "瓣"},
+            {"ingredient": "生薑", "amount": "3", "unit": "片"},
+            {"ingredient": "蔥白", "amount": "2", "unit": "根"},
+            {"ingredient": "生抽", "amount": "2", "unit": "湯匙"},
+            {"ingredient": "香油", "amount": "1", "unit": "湯匙"},
+            {"ingredient": "白糖", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "米醋", "amount": "1", "unit": "湯匙"},
+            {"ingredient": "辣椒油", "amount": "1", "unit": "湯匙"},
+            {"ingredient": "花椒粉", "amount": "少許", "unit": ""},
+            {"ingredient": "鹽", "amount": "適量", "unit": ""}
+        ],
+        "cooking_instructions": "將豬五花肉洗淨，放入冷水鍋中，加入薑片和蔥白，大火煮開後轉小火煮20分鐘至熟透。撈起晾涼後切成薄片備用。大蒜剁成蒜泥，加入生抽、香油、白糖、米醋、辣椒油、花椒粉和鹽調成蒜泥醬汁。將切好的肉片整齊擺盤，淋上調好的蒜泥醬汁，最後撒上蔥絲裝飾即可。",
+        "quantity": 2
+    },
+    {
+        "cuisine_id": 11,
+        "cuisine_img_url": "https://icook.tw/recipes/423477",
+        "cuisine_name": "麻婆豆腐",
+        "ingredients": [
+            {"ingredient": "嫩豆腐", "amount": "400", "unit": "克"},
+            {"ingredient": "豬絞肉", "amount": "150", "unit": "克"},
+            {"ingredient": "蒜苗", "amount": "2", "unit": "根"},
+            {"ingredient": "蒜頭", "amount": "3", "unit": "瓣"},
+            {"ingredient": "薑", "amount": "1", "unit": "小塊"},
+            {"ingredient": "豆瓣醬", "amount": "2", "unit": "大匙"},
+            {"ingredient": "醬油", "amount": "1", "unit": "大匙"},
+            {"ingredient": "花椒粉", "amount": "1", "unit": "小匙"},
+            {"ingredient": "辣椒粉", "amount": "1", "unit": "小匙"},
+            {"ingredient": "高湯或水", "amount": "200", "unit": "毫升"},
+            {"ingredient": "太白粉", "amount": "1", "unit": "大匙"},
+            {"ingredient": "香油", "amount": "1", "unit": "小匙"},
+            {"ingredient": "食用油", "amount": "3", "unit": "大匙"}
+        ],
+        "cooking_instructions": "豆腐切成2公分方塊，用鹽水汆燙2分鐘後撈起瀝乾。蒜苗切段，蒜頭薑切末。熱鍋下油，爆香蒜薑末，加入豬絞肉炒至變色。放入豆瓣醬炒出紅油，加入醬油、辣椒粉炒勻。倒入高湯或水煮滾，輕輕放入豆腐塊，小火燉煮5分鐘。太白粉加2大匙水調成芡汁，倒入鍋中勾芡。撒上蒜苗段、花椒粉，淋上香油即可起鍋。",
+        "quantity": 4
+    },
+    {
+        "cuisine_id": 12,
+        "cuisine_img_url": "https://ludaddylumalife.com/stinky-tofu/",
+        "cuisine_name": "麻婆豆腐",
+        "ingredients": [
+            {"ingredient": "嫩豆腐", "amount": "300", "unit": "克"},
+            {"ingredient": "豬絞肉", "amount": "100", "unit": "克"},
+            {"ingredient": "蔥", "amount": "2", "unit": "根"},
+            {"ingredient": "蒜", "amount": "3", "unit": "瓣"},
+            {"ingredient": "薑", "amount": "1", "unit": "小塊"},
+            {"ingredient": "豆瓣醬", "amount": "2", "unit": "大匙"},
+            {"ingredient": "醬油", "amount": "1", "unit": "大匙"},
+            {"ingredient": "花椒粉", "amount": "1", "unit": "小匙"},
+            {"ingredient": "辣椒油", "amount": "1", "unit": "大匙"},
+            {"ingredient": "太白粉", "amount": "1", "unit": "小匙"},
+            {"ingredient": "高湯或水", "amount": "150", "unit": "毫升"},
+            {"ingredient": "食用油", "amount": "2", "unit": "大匙"}
+        ],
+        "cooking_instructions": "將嫩豆腐切成2公分見方的塊狀，用熱水汆燙後撈起備用。蔥切成蔥花，蒜和薑切成末。熱鍋下油，爆香蒜末和薑末，加入豬絞肉炒至變色。加入豆瓣醬炒出紅油，倒入高湯或水煮滾。放入豆腐塊輕輕推勻，加入醬油調味，小火燉煮5分鐘。用太白粉加少許水調成芡汁，倒入鍋中勾芡。起鍋前撒上花椒粉、淋上辣椒油，最後撒上蔥花即可。",
+        "quantity": 1
+    },
+    {
+        "cuisine_id": 13,
+        "cuisine_img_url": "https://icook.tw/recipes/476897",
+        "cuisine_name": "客家釀豆腐配炒高麗菜",
+        "ingredients": [
+            {"ingredient": "板豆腐", "amount": "2", "unit": "塊"},
+            {"ingredient": "豬絞肉", "amount": "100", "unit": "公克"},
+            {"ingredient": "蔥花", "amount": "1", "unit": "根"},
+            {"ingredient": "薑末", "amount": "5", "unit": "公克"},
+            {"ingredient": "醬油", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "太白粉", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "高麗菜", "amount": "150", "unit": "公克"},
+            {"ingredient": "紅蘿蔔絲", "amount": "30", "unit": "公克"},
+            {"ingredient": "蒜末", "amount": "2", "unit": "瓣"},
+            {"ingredient": "鹽", "amount": "適量", "unit": ""},
+            {"ingredient": "食用油", "amount": "2", "unit": "大匙"}
+        ],
+        "cooking_instructions": "將豬絞肉加入蔥花、薑末、醬油、太白粉拌勻調味。板豆腐切厚片，中間挖洞塞入調好的絞肉餡。平底鍋加油，將釀豆腐兩面煎至金黃色。高麗菜切絲，紅蘿蔔切絲。另起鍋爆香蒜末，下高麗菜絲和紅蘿蔔絲大火炒軟，調味即可。將釀豆腐和炒高麗菜一起裝盤享用。",
+        "quantity": 1
+    },
+    {
+        "cuisine_id": 14,
+        "cuisine_img_url": "https://icook.tw/recipes/449031",
+        "cuisine_name": "客家鹹湯圓",
+        "ingredients": [
+            {"ingredient": "糯米粉", "amount": "100", "unit": "克"},
+            {"ingredient": "溫水", "amount": "80", "unit": "毫升"},
+            {"ingredient": "豬絞肉", "amount": "80", "unit": "克"},
+            {"ingredient": "韭菜", "amount": "30", "unit": "克"},
+            {"ingredient": "乾香菇", "amount": "2", "unit": "朵"},
+            {"ingredient": "蝦米", "amount": "10", "unit": "克"},
+            {"ingredient": "醬油", "amount": "1", "unit": "大匙"},
+            {"ingredient": "香油", "amount": "1", "unit": "茶匙"},
+            {"ingredient": "鹽", "amount": "適量", "unit": ""},
+            {"ingredient": "白胡椒粉", "amount": "少許", "unit": ""},
+            {"ingredient": "高湯", "amount": "300", "unit": "毫升"}
+        ],
+        "cooking_instructions": "香菇泡軟切丁，蝦米泡軟備用。韭菜洗淨切段。糯米粉加溫水揉成光滑麵糰，分成小份搓圓。熱鍋下油炒香菇丁和蝦米，再加入豬絞肉炒至變色，調味後起鍋做餡料。將餡料包入湯圓中搓圓。煮滾一鍋水，下湯圓煮至浮起撈起。另起鍋煮高湯，放入煮好的湯圓，加入韭菜段煮1分鐘，最後調味即可。",
+        "quantity": 1
+    },
+    {
+        "cuisine_id": 15,
+        "cuisine_img_url": "https://www.fe-amart.com.tw/index.php/life-style/taste-food/life-egg/meatstinkytofu",
+        "cuisine_name": "魚香茄子",
+        "ingredients": [
+            {"ingredient": "茄子", "amount": "3", "unit": "條"},
+            {"ingredient": "豬絞肉", "amount": "150", "unit": "克"},
+            {"ingredient": "蔥", "amount": "2", "unit": "根"},
+            {"ingredient": "薑", "amount": "15", "unit": "克"},
+            {"ingredient": "蒜", "amount": "4", "unit": "瓣"},
+            {"ingredient": "紅辣椒", "amount": "2", "unit": "根"},
+            {"ingredient": "郫縣豆瓣醬", "amount": "2", "unit": "大匙"},
+            {"ingredient": "生抽", "amount": "2", "unit": "大匙"},
+            {"ingredient": "老抽", "amount": "1", "unit": "小匙"},
+            {"ingredient": "米醋", "amount": "1", "unit": "大匙"},
+            {"ingredient": "糖", "amount": "1", "unit": "大匙"},
+            {"ingredient": "料酒", "amount": "1", "unit": "大匙"},
+            {"ingredient": "太白粉", "amount": "1", "unit": "小匙"},
+            {"ingredient": "水", "amount": "3", "unit": "大匙"},
+            {"ingredient": "食用油", "amount": "適量", "unit": ""}
+        ],
+        "cooking_instructions": "茄子洗淨切成條狀，用鹽醃製10分鐘後瀝乾水分。蔥薑蒜切末，紅辣椒切絲。調製魚香汁：將生抽、老抽、米醋、糖、料酒、太白粉和水調勻備用。熱鍋下油，將茄子條炸至軟身後撈起瀝油。留少許油在鍋中，下豬絞肉炒散至變色。加入豆瓣醬炒出紅油，再下蔥薑蒜末爆香。倒入炸好的茄子翻炒均勻。淋入調好的魚香汁，快速翻炒至收汁。最後撒上紅辣椒絲和蔥花即可起鍋。",
+        "quantity": 4
+    }
+]
