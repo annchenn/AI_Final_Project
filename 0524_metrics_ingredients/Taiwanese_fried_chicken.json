@@ -1,0 +1,90 @@
+[
+    {
+        "cuisine_id":6,
+        "cuisine_img_url": "https://icook.tw/recipes/473146",
+        "cuisine_name": "鹹酥雞",
+        "ingredients": [
+            {"ingredient":"雞胸", "amount": "300", "unit":"克"},
+            {"ingredient":"地瓜粉", "amount": "1", "unit":"適量"},
+            {"ingredient":"醬油", "amount": "2", "unit":"小匙"},
+            {"ingredient":"大蒜油", "amount": "1", "unit":"小匙"},
+            {"ingredient":"果糖", "amount": "1", "unit":"小匙"},
+            {"ingredient":"鹹酥雞粉", "amount": "1", "unit":"適量"}
+        ],
+        "cooking_instructions":"將醬油、大蒜油、果糖充分混合後，加入切成適口大小的雞胸肉，確保均勻裹覆，靜置醃製30-60分鐘，醃製完成後，均勻裹上地瓜粉，裹粉後靜置，讓粉衣吸收食材表面水分，形成適度反潮，將適量食用油倒入鍋中，以中火加熱至約 160-170°C，將裹好粉的肉塊分批放入油鍋，確保油溫穩定，油炸時間約 5 分鐘，至表面金黃酥脆，肉熟透為止，撈起炸好的肉塊，放置於吸油紙或瀝油架上，趁熱撒上適量鹹酥雞粉或個人口味的調味料，均勻拌勻，即可享用。",
+        "quantity": 2
+    },
+    {
+        "cuisine_id":7,
+        "cuisine_img_url": "https://icook.tw/recipes/476980",
+        "cuisine_name": "鹹酥雞",
+        "ingredients": [
+            {"ingredient":"雞柳肉", "amount": "2", "unit":"盒"},
+            {"ingredient":"白胡椒粉", "amount": "3", "unit":"小匙"},
+            {"ingredient":"醬油", "amount": "1", "unit":"大匙"},
+            {"ingredient":"地瓜粉", "amount": "5", "unit":"大匙"}
+        ],
+        "cooking_instructions":"雞肉洗淨後擦乾，倒入醬油、胡椒粉抓醃均勻，將肉均勻裹上地瓜粉，放約5分待其反潮，蓋到肉一半油量熱油，丟一粒蕃薯粉，冒泡浮起來即可放入雞肉油炸，分批下，途中需翻面，表面呈淺焦黃色既可。",
+        "quantity": 4
+    },
+    {
+        "cuisine_id":8,
+        "cuisine_img_url": "https://icook.tw/recipes/471168",
+        "cuisine_name": "鹹酥雞",
+        "ingredients": [
+            {"ingredient":"雞胸肉", "amount": "2", "unit":"盒"},
+            {"ingredient":"蔥末", "amount": "1", "unit":"適量"},
+            {"ingredient":"蒜末", "amount": "1", "unit":"適量"},
+            {"ingredient":"胡椒鹽", "amount": "1", "unit":"適量"},
+            {"ingredient":"醬油膏", "amount": "1", "unit":"少許"},
+            {"ingredient":"太白粉", "amount": "1", "unit":"少許"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"小匙"},
+            {"ingredient":"辣椒末", "amount": "2", "unit":"根"},
+            {"ingredient":"雞蛋", "amount": "1", "unit":"顆"},
+            {"ingredient":"米酒", "amount": "1", "unit":"小匙"},
+            {"ingredient":"地瓜粉", "amount": "1", "unit":"適量"}
+        ],
+        "cooking_instructions":"雞胸肉切塊洗淨後加太白粉、蒜末、辣椒、五香粉、醬油膏、米酒醃1小時，醃好的肉加生雞蛋抓一抓，把醬汁、多的蛋液瀝乾，地瓜粉倒入瀝乾的雞肉抓乾，鍋子加油大火滾轉中火，放入雞肉炸到金黃色熟，撈起來把油瀝乾，加糊椒鹽、蒜末、辣椒末、蔥末拌勻即可",
+        "quantity": 2
+    },
+    {
+        "cuisine_id":9,
+        "cuisine_img_url": "https://icook.tw/recipes/472398",
+        "cuisine_name": "鹹酥雞",
+        "ingredients": [
+            {"ingredient":"雞胸肉", "amount": "2", "unit":"盒"},
+            {"ingredient":"鹹酥雞粉", "amount": "1", "unit":"少許"},
+            {"ingredient":"紅椒辣粉", "amount": "1", "unit":"少許"},           
+            {"ingredient":"木薯粉", "amount": "1", "unit":"多量"},
+            {"ingredient":"蒜片", "amount": "1", "unit":"多瓣"},
+            {"ingredient":"醬油", "amount": "1", "unit":"匙"},
+            {"ingredient":"蒜塊", "amount": "5", "unit":"瓣"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"少許"},
+            {"ingredient":"胡椒粉", "amount": "1", "unit":"少許"},
+            {"ingredient":"雞蛋", "amount": "1", "unit":"顆"},
+            {"ingredient":"鮮味炒手", "amount": "1/4", "unit":"茶匙"},
+            {"ingredient":"砂糖", "amount": "1/4", "unit":"茶匙"},
+            {"ingredient":"米酒", "amount": "1", "unit":"湯匙"}
+        ],
+        "cooking_instructions":"雞胸肉洗淨切塊放入醬油、米酒、蒜塊、五香粉、胡椒粉、砂糖、鮮味炒手、雞蛋抓醃，靜置30分鐘，每塊雞肉沾木薯粉，靜置約6分鐘等待反潮，中火熱油鍋，等油溫到用竹筷放入油鍋冒微小氣泡就可以開始油炸，分批放下雞肉炸，約15秒先不動大約定型後，再攪動炸到金黃色約3分鐘，撈起瀝乾，再中大火等油溫升高，回炸雞肉約20秒做搶酥的動作，再撈起，灑上蒜片，配上鹹酥雞粉跟紅辣椒粉",
+        "quantity": 2
+    },
+    {
+        "cuisine_id":10,
+        "cuisine_img_url": "https://icook.tw/recipes/443155",
+        "cuisine_name": "鹹酥雞",
+        "ingredients": [
+            {"ingredient":"雞胸肉", "amount": "1", "unit":"塊"},
+            {"ingredient":"白胡椒", "amount": "1", "unit":"小匙"},
+            {"ingredient":"醬油膏", "amount": "1", "unit":"小匙"},           
+            {"ingredient":"醋", "amount": "1", "unit":"小匙"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"小匙"},
+            {"ingredient":"醬油", "amount": "1", "unit":"小匙"},
+            {"ingredient":"米酒", "amount": "1", "unit":"小匙"},
+            {"ingredient":"蒜頭", "amount": "5", "unit":"瓣"},
+            {"ingredient":"地瓜粉", "amount": "1", "unit":"杯"}
+        ],
+        "cooking_instructions":"把蒜頭切碎，雞肉切丁後，將蒜頭、雞肉、五香粉、米酒、白胡椒、醋、醬油、醬油膏用手抓均勻醃製，封上保鮮膜放冰箱15分後拿出，沾地瓜粉後下鍋中火2-3分鐘到肉熟為止",
+        "quantity": 2
+    }
+]

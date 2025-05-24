@@ -1,0 +1,270 @@
+[
+    {
+        "cuisine_id":1,
+        "cuisine_url": "https://icook.tw/recipes/455986",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient": "五花肉", "amount": "2000", "unit":"克"},
+            {"ingredient": "洋蔥", "amount": "2", "unit":"顆"},
+            {"ingredient": "紅蔥頭末", "amount": "50", "unit":"克"},
+            {"ingredient": "蒜末", "amount": "50", "unit": "克"},
+            {"ingredient": "五香粉", "amount": "1", "unit":"小匙"},
+            {"ingredient":"醬油", "amount": "1", "unit": "杯"},
+            {"ingredient":"油膏", "amount": "0.5", "unit":"杯"},
+            {"ingredient":"紹興酒", "amount": "4", "unit":"大匙"},
+            {"ingredient":"冰糖", "amount": "50", "unit":"克"}
+        ],
+        "cooking_instructions": "小黃瓜洗淨後，去除頭尾，然後以菜刀拍碎; 將拍碎的小黃瓜切小段; 加入細砂糖拌勻，去菁15分鐘; 辣椒清洗後切成辣椒圈; 蒜頭清洗後切成蒜末; 用手將小黃瓜多餘的水份擠出，然後倒掉; 加入辣椒圈和蒜末; 加入醬油; 加入烏醋; 加入鹽; 淋上加熱後的植物油(淋熱油); 將所有食材拌勻即可食用; 於冰箱醃漬2小時以上會更入味更好吃; ",
+        "quantity":10
+    },
+    {
+        "cuisine_id":2,
+        "cuisine_url": "https://icook.tw/recipes/391516",
+        "cuisine_name": "滷肉飯",
+        "ingredients": [
+            {"ingredient":"豬五花肉", "amount": "1000", "unit":"克"},
+            {"ingredient":"蒜頭", "amount": "3", "unit":"顆"},
+            {"ingredient":"米酒", "amount": "1", "unit":"碗"},
+            {"ingredient":"冰糖", "amount": "1", "unit":"匙"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"茶匙"},
+            {"ingredient":"香葉", "amount": "2", "unit":"片"},
+            {"ingredient":"紅蔥頭", "amount": "3", "unit":"顆"},
+            {"ingredient":"醬油", "amount": "2", "unit":"碗"},
+            {"ingredient":"黑糖", "amount": "1", "unit":"匙"},
+            {"ingredient":"白胡椒粉", "amount": "1", "unit":"茶匙"},
+            {"ingredient":"八角", "amount": "1", "unit":"顆"}
+        ],
+        "cooking_instructions":"把紅蔥頭切細剁碎，蒜頭切末。把豬肉先切成1公分厚片，再切成肉條。等到鍋子燒熱，不用放油，五花肉下鍋鋪平、均勻受熱，翻炒到肉呈白色。繼續翻炒豬肉，炒出透明的豬油，把紅蔥頭倒入、炒出濃郁的油蔥香，再放入蒜末一起拌炒。把豬肉推到旁邊，放入冰糖、黑糖，加熱到融化冒泡、變成焦糖，再把豬肉一起翻拌、讓焦糖均勻附著。倒入醬油，先炒出醬油的香氣、再加水慢燉。嗆入米酒，把滷肉移到深鍋中，水加到淹過豬肉，加入白胡椒粉、五香粉、八角、香葉、水煮蛋，沸騰後轉小火滷1小時。滷到上色後，開大火收汁直到醬汁濃稠，整鍋滷肉靜置2~3小時。",
+        "quantity":8
+    },
+    {
+        "cuisine_id":3,
+        "cuisine_url": "https://www.coya.tw/recipe/meat/418",
+        "cuisine_name": "五香手切滷肉燥",
+        "ingredients": [
+            {"ingredient":"五花肉", "amount": "1", "unit":"斤"},
+            {"ingredient":"紅蔥頭", "amount": "80", "unit":"克"},
+            {"ingredient":"蒜頭", "amount": "40", "unit":"克"},
+            {"ingredient":"冰糖", "amount": "100", "unit":"克"},
+            {"ingredient":"豬油", "amount": "1", "unit":"大匙"},
+            {"ingredient":"熱水", "amount": "200", "unit":"毫升"},
+            {"ingredient":"紹興酒", "amount": "100", "unit":"毫升"},
+            {"ingredient":"醬油", "amount": "150", "unit":"毫升"},
+            {"ingredient":"水", "amount": "200", "unit":"毫升"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"小匙"},
+            {"ingredient":"白糊椒粉", "amount": "0.25", "unit":"小匙"},
+            {"ingredient":"糖", "amount": "1", "unit":"大匙"}
+        ],
+        "cooking_instructions":"起一鍋滾水川燙整條五花肉，撈起備用。準備蒜頭和紅蔥頭切末，蒜頭紅蔥頭處理好之後，將剛才川燙好的五花肉先切片(約1公分厚)再切成小塊狀。中小火熱鍋，將肥肉下鍋不要加蓋，約5~10分鐘就可以煸出豬油，將肥肉煸至縮水、呈現金黃色後夾出來，它就是豬油渣。取出豬油渣後，利用鍋子裡的豬油炸紅蔥頭，炒至紅蔥頭變成金黃色酥脆。接下來開始炒糖(這邊我換鑄鐵鍋)，鍋中下1大匙豬油(或沙拉油)和冰糖100g，開中火等糖融化，等糖溶化的過程不要用鍋鏟去炒它動它，讓糖靜靜的融。糖融化變深色沸騰起泡時加入200ml的熱水。等鍋中稍微平靜一點後就放入切好的五花肉煎熟，下蒜末拌炒，然後加入所有的酒水和調味料，煮滾後轉小火加蓋滷1~1.5個小時，最後30分鐘再將炸過的紅蔥頭全部加進去。",
+        "quantity":7
+    },
+    {
+        "cuisine_id":4,
+        "cuisine_img_url": "https://cookpad.com/tw/%E9%A3%9F%E8%AD%9C/10947414-%E5%8F%A4%E6%97%A9%E5%91%B3%E9%85%92%E9%A6%99%E6%BB%B7%E8%82%89%E9%A3%AF%E5%BF%AB%E9%80%9F%E7%89%88?ref=search&search_term=%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF",
+        "cuisine_name": "古早味酒香滷肉飯",
+        "ingredients": [
+            {"ingredient":"豬絞肉", "amount": "2", "unit":"斤"},
+            {"ingredient":"醬油", "amount": "150", "unit":"克"},
+            {"ingredient":"油蔥酥", "amount": "120", "unit":"克"},
+            {"ingredient":"紹興酒", "amount": "250", "unit":"克"},
+            {"ingredient":"冰糖", "amount": "1", "unit":"小碗"},
+            {"ingredient":"水", "amount": "1", "unit":"大碗"}
+        ],
+        "cooking_instructions":"先把絞肉先炒過。加醬油進去拌炒一下，讓所有的肉可以均勻上色。加入油蔥酥繼續炒。加入冰糖繼續炒，然後加入紹興酒，大滾ㄧ下，讓酒精蒸發、留下酒的香氣就好。最後加入一大碗的水，就是至少要蓋過滷肉，然後煮好之後可以在試一下味道，如果味道不夠可以在適量的加一些調味料（醬油或是冰糖等）。",
+        "quantity":10
+    },
+    {
+        "cuisine_id":5,
+        "cuisine_img_url": "https://cookpad.com/tw/%E9%A3%9F%E8%AD%9C/2086610-%E5%8F%A4%E6%97%A9%E5%91%B3%E6%89%8B%E5%88%87%E6%BB%B7%E8%82%89%E9%A3%AF?ref=search&search_term=%E5%8F%A4%E6%97%A9%E5%91%B3%E6%BB%B7%E8%82%89%E9%A3%AF",
+        "cuisine_name": "古早味手切滷肉飯",
+        "ingredients": [
+            {"ingredient":"五花肉", "amount": "1000", "unit":"克"},
+            {"ingredient":"小洋蔥", "amount": "1", "unit":"顆"},
+            {"ingredient":"蒜末", "amount": "1", "unit":"大匙"},
+            {"ingredient":"油蔥酥", "amount": "1", "unit":"大匙"},
+            {"ingredient":"醬油", "amount": "2", "unit":"大匙"},
+            {"ingredient":"米酒", "amount": "1", "unit":"大匙"},
+            {"ingredient":"冰糖", "amount": "1", "unit":"匙"},
+            {"ingredient":"麥芽糖", "amount": "1", "unit":"大匙"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"小匙"}
+        ],
+        "cooking_instructions":"五花肉先川燙二分鐘後，拿起來沖冷水後，切成細條備用。乾鍋把五花肉放下去煎，讓油逼出來，等肉熟。再加入蒜末及洋蔥末炒香，再加入米酒和冰糖炒出香氣。香氣出來後，再把一大匙醬油和麥芽糖放下去炒入味。再加入一大匙醬油及二大碗水，煮到水滾後，移到電鍋的內鍋。拿去電鍋蒸五十分鐘，再加入五香粉及油蔥酥，再悶一小時即可。",
+        "quantity":10
+    },
+    {
+        "cuisine_id":6,
+        "cuisine_img_url": "https://icook.tw/recipes/473146",
+        "cuisine_name": "鹹酥雞",
+        "ingredients": [
+            {"ingredient":"雞胸", "amount": "300", "unit":"克"},
+            {"ingredient":"地瓜粉", "amount": "1", "unit":"適量"},
+            {"ingredient":"醬油", "amount": "2", "unit":"小匙"},
+            {"ingredient":"大蒜油", "amount": "1", "unit":"小匙"},
+            {"ingredient":"果糖", "amount": "1", "unit":"小匙"},
+            {"ingredient":"鹹酥雞粉", "amount": "1", "unit":"適量"}
+        ],
+        "cooking_instructions":"將醬油、大蒜油、果糖充分混合後，加入切成適口大小的雞胸肉，確保均勻裹覆，靜置醃製30-60分鐘，醃製完成後，均勻裹上地瓜粉，裹粉後靜置，讓粉衣吸收食材表面水分，形成適度反潮，將適量食用油倒入鍋中，以中火加熱至約 160-170°C，將裹好粉的肉塊分批放入油鍋，確保油溫穩定，油炸時間約 5 分鐘，至表面金黃酥脆，肉熟透為止，撈起炸好的肉塊，放置於吸油紙或瀝油架上，趁熱撒上適量鹹酥雞粉或個人口味的調味料，均勻拌勻，即可享用。",
+        "quantity": 2
+    },
+    {
+        "cuisine_id":7,
+        "cuisine_img_url": "https://icook.tw/recipes/476980",
+        "cuisine_name": "鹹酥雞",
+        "ingredients": [
+            {"ingredient":"雞柳肉", "amount": "2", "unit":"盒"},
+            {"ingredient":"白胡椒粉", "amount": "3", "unit":"小匙"},
+            {"ingredient":"醬油", "amount": "1", "unit":"大匙"},
+            {"ingredient":"地瓜粉", "amount": "5", "unit":"大匙"}
+        ],
+        "cooking_instructions":"雞肉洗淨後擦乾，倒入醬油、胡椒粉抓醃均勻，將肉均勻裹上地瓜粉，放約5分待其反潮，蓋到肉一半油量熱油，丟一粒蕃薯粉，冒泡浮起來即可放入雞肉油炸，分批下，途中需翻面，表面呈淺焦黃色既可。",
+        "quantity": 4
+    },
+    {
+        "cuisine_id":8,
+        "cuisine_img_url": "https://icook.tw/recipes/471168",
+        "cuisine_name": "鹹酥雞",
+        "ingredients": [
+            {"ingredient":"雞胸肉", "amount": "2", "unit":"盒"},
+            {"ingredient":"蔥末", "amount": "1", "unit":"適量"},
+            {"ingredient":"蒜末", "amount": "1", "unit":"適量"},
+            {"ingredient":"胡椒鹽", "amount": "1", "unit":"適量"},
+            {"ingredient":"醬油膏", "amount": "1", "unit":"少許"},
+            {"ingredient":"太白粉", "amount": "1", "unit":"少許"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"小匙"},
+            {"ingredient":"辣椒末", "amount": "2", "unit":"根"},
+            {"ingredient":"雞蛋", "amount": "1", "unit":"顆"},
+            {"ingredient":"米酒", "amount": "1", "unit":"小匙"},
+            {"ingredient":"地瓜粉", "amount": "1", "unit":"適量"}
+        ],
+        "cooking_instructions":"雞胸肉切塊洗淨後加太白粉、蒜末、辣椒、五香粉、醬油膏、米酒醃1小時，醃好的肉加生雞蛋抓一抓，把醬汁、多的蛋液瀝乾，地瓜粉倒入瀝乾的雞肉抓乾，鍋子加油大火滾轉中火，放入雞肉炸到金黃色熟，撈起來把油瀝乾，加糊椒鹽、蒜末、辣椒末、蔥末拌勻即可",
+        "quantity": 2
+    },
+    {
+        "cuisine_id":9,
+        "cuisine_img_url": "https://icook.tw/recipes/472398",
+        "cuisine_name": "鹹酥雞",
+        "ingredients": [
+            {"ingredient":"雞胸肉", "amount": "2", "unit":"盒"},
+            {"ingredient":"鹹酥雞粉", "amount": "1", "unit":"少許"},
+            {"ingredient":"紅椒辣粉", "amount": "1", "unit":"少許"},           
+            {"ingredient":"木薯粉", "amount": "1", "unit":"多量"},
+            {"ingredient":"蒜片", "amount": "1", "unit":"多瓣"},
+            {"ingredient":"醬油", "amount": "1", "unit":"匙"},
+            {"ingredient":"蒜塊", "amount": "5", "unit":"瓣"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"少許"},
+            {"ingredient":"胡椒粉", "amount": "1", "unit":"少許"},
+            {"ingredient":"雞蛋", "amount": "1", "unit":"顆"},
+            {"ingredient":"鮮味炒手", "amount": "1/4", "unit":"茶匙"},
+            {"ingredient":"砂糖", "amount": "1/4", "unit":"茶匙"},
+            {"ingredient":"米酒", "amount": "1", "unit":"湯匙"}
+        ],
+        "cooking_instructions":"雞胸肉洗淨切塊放入醬油、米酒、蒜塊、五香粉、胡椒粉、砂糖、鮮味炒手、雞蛋抓醃，靜置30分鐘，每塊雞肉沾木薯粉，靜置約6分鐘等待反潮，中火熱油鍋，等油溫到用竹筷放入油鍋冒微小氣泡就可以開始油炸，分批放下雞肉炸，約15秒先不動大約定型後，再攪動炸到金黃色約3分鐘，撈起瀝乾，再中大火等油溫升高，回炸雞肉約20秒做搶酥的動作，再撈起，灑上蒜片，配上鹹酥雞粉跟紅辣椒粉",
+        "quantity": 2
+    },
+    {
+        "cuisine_id":10,
+        "cuisine_img_url": "https://icook.tw/recipes/443155",
+        "cuisine_name": "鹹酥雞",
+        "ingredients": [
+            {"ingredient":"雞胸肉", "amount": "1", "unit":"塊"},
+            {"ingredient":"白胡椒", "amount": "1", "unit":"小匙"},
+            {"ingredient":"醬油膏", "amount": "1", "unit":"小匙"},           
+            {"ingredient":"醋", "amount": "1", "unit":"小匙"},
+            {"ingredient":"五香粉", "amount": "1", "unit":"小匙"},
+            {"ingredient":"醬油", "amount": "1", "unit":"小匙"},
+            {"ingredient":"米酒", "amount": "1", "unit":"小匙"},
+            {"ingredient":"蒜頭", "amount": "5", "unit":"瓣"},
+            {"ingredient":"地瓜粉", "amount": "1", "unit":"杯"}
+        ],
+        "cooking_instructions":"把蒜頭切碎，雞肉切丁後，將蒜頭、雞肉、五香粉、米酒、白胡椒、醋、醬油、醬油膏用手抓均勻醃製，封上保鮮膜放冰箱15分後拿出，沾地瓜粉後下鍋中火2-3分鐘到肉熟為止",
+        "quantity": 2
+    },
+    {
+        "cuisine_id": 11,
+        "cuisine_img_url": "https://icook.tw/recipes/283278",
+        "cuisine_name": "［電鍋料理］清蒸臭豆腐",
+        "ingredients": [
+            {"ingredient":"臭豆腐", "amount": "4", "unit":"塊"},
+            {"ingredient":"乾香菇", "amount": "2", "unit":"朵"},
+            {"ingredient":"毛豆仁", "amount": "酌量", "unit":""},
+            {"ingredient":"XO干貝醬", "amount": "4", "unit":"小匙"},
+            {"ingredient":"鰹魚淡醬油", "amount": "2-3", "unit":"匙"},
+            {"ingredient":"金針菇", "amount": "酌量", "unit":""}
+        ],
+        "cooking_instructions": "乾香菇先用水泡軟後，切細條狀。新鮮（生）毛豆仁洗淨後用水燙煮大約3分鐘，將豆仁的薄膜撥掉。臭豆腐取出所需的份量用水洗淨備用。（金針菇洗淨備用。）將洗淨的金針菇撥開鋪在最底層，臭豆腐上下兩面都用刀在中心劃十字（以利吸汁入味），鋪在金針菇上。放上毛豆仁、香菇後，在每塊臭豆腐上都放一小湯匙XO干貝醬，再淋上淡醬油。放入電鍋以外鍋1/2量杯水蒸熟，要吃的時候再取出即可。",
+        "quantity": 2
+    },
+    {
+        "cuisine_id": 12,
+        "cuisine_img_url": "https://ludaddylumalife.com/stinky-tofu/",
+        "cuisine_name": "清蒸臭豆腐 (簡易電鍋版)",
+        "ingredients": [
+            {"ingredient":"臭豆腐", "amount": "5", "unit":"塊"},
+            {"ingredient":"熟毛豆", "amount": "50", "unit":"克"},
+            {"ingredient":"豬絞肉", "amount": "100", "unit":"克"},
+            {"ingredient":"香菇泡軟切丁", "amount": "1", "unit":"適量"},
+            {"ingredient":"自製豆豉蒜蓉辣椒醬", "amount": "1", "unit":"適量"},
+            {"ingredient":"鹽", "amount": "1", "unit":"適量"},
+            {"ingredient":"蔥花", "amount": "1", "unit":"適量"},
+            {"ingredient":"日式鰹魚醬油", "amount": "1", "unit":"大匙"}
+        ],
+        "cooking_instructions": "臭豆腐用刀在中心劃十字或切4塊（以便吸汁入味），放入有深度的盤或大碗裡。起油鍋，將肉末炒至變色，加入香菇丁爆香，接著加入豆豉蒜蓉辣椒醬，炒香後將一半的餡料，舀進大碗中，留下一半加入香菇水和鰹魚醬油、鹽煮沸後熄火，將湯汁倒入大碗中。灑上毛豆，置於電鍋中，外鍋2杯水，蒸至跳起，燜3分鐘，即可起鍋撒上蔥末，上桌。",
+        "quantity": 1
+    },
+    {
+        "cuisine_id": 13,
+        "cuisine_img_url": "https://icook.tw/recipes/476897",
+        "cuisine_name": "台式炸(臭)豆腐",
+        "ingredients": [
+            {"ingredient":"油豆腐", "amount": "1", "unit":"盒"},
+            {"ingredient":"小黄瓜(選用)", "amount": "2", "unit":"根"},
+            {"ingredient":"台式泡菜", "amount": "1", "unit":"適量"},
+            {"ingredient":"開水", "amount": "2", "unit":"大匙"},
+            {"ingredient":"蒜末", "amount": "35-40", "unit":"克"},
+            {"ingredient":"醬油", "amount": "4", "unit":"大匙"},
+            {"ingredient":"烏醋", "amount": "1.5", "unit":"大匙"},
+            {"ingredient":"油膏", "amount": "1", "unit":"大匙"},
+            {"ingredient":"糖", "amount": "15", "unit":"克"}
+        ],
+        "cooking_instructions": "準備食材: 小黄瓜洗淨，去蒂切絲。台式泡菜。醬料: 1.蒜頭去皮去蒂洗淨，搗成泥或切末。2.蒜末加開水，微波5秒(選用)。3.蒜末水加入剩餘醬料材料的拌勻。※蒜末加水微波後，會釋放出更濃厚的蒜味、辣。1.油豆腐略沖洗，用廚房紙巾吸乾水份。2.放到氣炸鍋內，205℃/400℉ 炸5分鐘，翻面再炸5分鐘。※用煎的或油鍋炸都行，只要油豆腐表面呈酥脆即可！1.油豆腐切一小口，倒入適量醬料。2.放上泡菜、小黄瓜。完成！",
+        "quantity": 1
+    },
+    {
+        "cuisine_id": 14,
+        "cuisine_img_url": "https://icook.tw/recipes/449031",
+        "cuisine_name": "炸臭豆腐~簡單隨手做",
+        "ingredients": [
+            {"ingredient":"深坑手工臭豆腐", "amount": "7", "unit":"塊"},
+            {"ingredient":"蠔油", "amount": "50", "unit":"毫升"},
+            {"ingredient":"醬油", "amount": "10", "unit":"毫升"},
+            {"ingredient":"冷開水", "amount": "50", "unit":"毫升"},
+            {"ingredient":"蒜末", "amount": "5", "unit":"瓣"},
+            {"ingredient":"二砂", "amount": "1", "unit":"茶匙"},
+            {"ingredient":"辣椒醬", "amount": "1", "unit":"可有可無"}
+        ],
+        "cooking_instructions":"醬汁提前做好備用。手工臭豆腐先沖洗一下，再用廚房紙巾擦拭表面水份。用16cm不鏽鋼帶手把小鍋先加半鍋油，開大火用溫度計監看油溫，當油溫達180°C時先放一塊臭豆腐，小心一下子浮上來的滾燙熱油。炸臭豆腐中間需偶而翻動，臭豆腐一塊一塊炸就不需太多油。第一炸3分鐘之內臭豆腐就會浮上來，夾出來用瀝油架或濾油網瀝油。外酥是在吃的時候再用熱油回炸產生的，外酥內嫩是我最愛吃口感。斜切成三角形。吃不完的臭豆腐放涼後先用塑膠袋每2個臭豆腐裝一袋，再裝到真空保鮮袋裡密封抽掉空氣，放在冰箱冷藏室保存，建議一週内盡快吃完即可。",
+        "quantity": 1
+    },
+    {
+        "cuisine_id": 15,
+        "cuisine_img_url": "https://www.fe-amart.com.tw/index.php/life-style/taste-food/life-egg/meatstinkytofu",
+        "cuisine_name": "肉末臭豆腐 (愛買)",
+        "ingredients": [
+            {"ingredient":"臭豆腐", "amount": "4", "unit":"大塊"},
+            {"ingredient":"豬絞肉", "amount": "150", "unit":"g"},
+            {"ingredient":"辣椒", "amount": "2", "unit":"支"},
+            {"ingredient":"蔥", "amount": "3", "unit":"支"},
+            {"ingredient":"豆豉", "amount": "2", "unit":"大匙"},
+            {"ingredient":"鹽", "amount": "1", "unit":"少許"},
+            {"ingredient":"糖", "amount": "1", "unit":"茶匙"},
+            {"ingredient":"醬油", "amount": "4", "unit":"大匙"},
+            {"ingredient":"米酒", "amount": "2", "unit":"大匙"},
+            {"ingredient":"麵粉", "amount": "50", "unit":"g"},
+            {"ingredient":"白胡椒", "amount": "1", "unit":"大匙"},
+            {"ingredient":"白芝麻", "amount": "2", "unit":"大匙"}
+        ],
+        "cooking_instructions": "先將臭豆腐加2大匙醬油先醃過。將醃過的臭豆腐沾麵粉，然後準備一只鍋，待鍋熱後加入的油，然後將臭豆腐放入油鍋炸酥後盛起備用。另起一油鍋，將絞肉放入鍋中炒乾後，加辣椒炒香，再添加醬油、米酒、豆豉及水微煮後，加鹽、糖、白胡椒調味，再放入臭豆腐條拌炒。起鍋前加蔥花、即可盛盤。",
+        "quantity": 4
+    }
+
+]
