@@ -4,7 +4,14 @@ from transformers import (
   BertTokenizerFast,
   AutoModel,
 )
-
 tokenizer = BertTokenizerFast.from_pretrained('bert-base-chinese')
 model = AutoModel.from_pretrained('ckiplab/bert-base-chinese')
+-----------------------------------------------------------------------
 
+from transformers import BertTokenizer, BertModel
+import torch
+import torch.nn.functional as F
+
+tokenizer = BertTokenizer.from_pretrained("hfl/chinese-macbert-base")
+model = BertModel.from_pretrained("hfl/chinese-macbert-base")
+model.eval()
