@@ -16,7 +16,10 @@ import torch.nn.functional as F
 tokenizer = BertTokenizer.from_pretrained("hfl/chinese-macbert-base") <--
 model = BertModel.from_pretrained("hfl/chinese-macbert-base")
 model.eval()
-------------------------------------------------------------------------
+-----------------------------------------------------------------------
+hfl/chinese-roberta-wwm
+
+-----------------------------------------------------------------------
 2. 利用另一種計算方式
 from transformers import BertTokenizer, BertModel
 import torch
