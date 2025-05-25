@@ -1,0 +1,10 @@
+1. 可以使用不同base
+https://huggingface.co/ckiplab/bert-base-chinese
+from transformers import (
+  BertTokenizerFast,
+  AutoModel,
+)
+
+tokenizer = BertTokenizerFast.from_pretrained('bert-base-chinese')
+model = AutoModel.from_pretrained('ckiplab/bert-base-chinese')
+
