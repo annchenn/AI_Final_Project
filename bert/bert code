@@ -1,0 +1,51 @@
+1. 使用不同base
+https://huggingface.co/ckiplab/bert-base-chinese
+from transformers import (
+  BertTokenizerFast,
+  AutoModel,
+)
+tokenizer = BertTokenizerFast.from_pretrained('bert-base-chinese')
+model = AutoModel.from_pretrained('ckiplab/bert-base-chinese') <--
+model.eval() // 模型設為推論模式，每次結果才會一致
+-----------------------------------------------------------------------
+
+from transformers import BertTokenizer, BertModel
+import torch
+import torch.nn.functional as F
+
+tokenizer = BertTokenizer.from_pretrained("hfl/chinese-macbert-base") <--
+model = BertModel.from_pretrained("hfl/chinese-macbert-base")
+model.eval()
+------------------------------------------------------------------------
+2. 利用另一種計算方式
+from transformers import BertTokenizer, BertModel
+import torch
+import torch.nn.functional as F
+
+# 載入 tokenizer 與模型
+tokenizer = BertTokenizer.from_pretrained("hfl/chinese-macbert-base")
+model = BertModel.from_pretrained("hfl/chinese-macbert-base")
+model.eval()
+
+def mean_pooling(model_output, attention_mask):
+    token_embeddings = model_output.last_hidden_state  # shape: (batch_size, seq_len, hidden_size)
+    input_mask_expanded = attention_mask.unsqueeze(-1).expand(token_embeddings.size()).float()
+    sum_embeddings = torch.sum(token_embeddings * input_mask_expanded, 1)
+    sum_mask = input_mask_expanded.sum(1)
+    return sum_embeddings / sum_mask  # shape: (batch_size, hidden_size)
+
+# 兩句中文
+sentence1 = ""
+sentence2 = ""
+
+# 編碼句子
+inputs = tokenizer([sentence1, sentence2], return_tensors="pt", padding=True, truncation=True)
+with torch.no_grad():
+    outputs = model(**inputs)
+    embeddings = mean_pooling(outputs, inputs["attention_mask"])
+
+# 計算餘弦相似度
+similarity = F.cosine_similarity(embeddings[0], embeddings[1], dim=0).item()
+print(f"兩句話的相似度（mean pooling）為: {similarity:.4f}")
+
+
