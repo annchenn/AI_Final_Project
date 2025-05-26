@@ -188,22 +188,20 @@
     },
     {
         "cuisine_id":10,
-        "cuisine_img_url": "https://icook.tw/recipes/472398",
-        "cuisine_name": "蒜泥白肉",
+        "cuisine_img_url": "https://icook.tw/recipes/443155",
+        "cuisine_name": "鹽酥花椰菜",
         "ingredients": [
-            {"ingredient": "豬五花肉", "amount": "300", "unit": "克"},
-            {"ingredient": "大蒜", "amount": "6", "unit": "瓣"},
-            {"ingredient": "生薑", "amount": "3", "unit": "片"},
-            {"ingredient": "蔥白", "amount": "2", "unit": "根"},
-            {"ingredient": "生抽", "amount": "2", "unit": "湯匙"},
-            {"ingredient": "香油", "amount": "1", "unit": "湯匙"},
-            {"ingredient": "白糖", "amount": "1", "unit": "茶匙"},
-            {"ingredient": "米醋", "amount": "1", "unit": "湯匙"},
-            {"ingredient": "辣椒油", "amount": "1", "unit": "湯匙"},
-            {"ingredient": "花椒粉", "amount": "少許", "unit": ""},
-            {"ingredient": "鹽", "amount": "適量", "unit": ""}
+            {"ingredient": "白花椰菜", "amount": "1", "unit": "顆"},
+            {"ingredient": "地瓜粉", "amount": "100", "unit": "克"},
+            {"ingredient": "雞蛋", "amount": "1", "unit": "顆"},
+            {"ingredient": "蒜頭", "amount": "3", "unit": "瓣"},
+            {"ingredient": "辣椒", "amount": "1", "unit": "根"},
+            {"ingredient": "青菜(菠菜或小白菜)", "amount": "50", "unit": "克"},
+            {"ingredient": "鹽酥粉", "amount": "2", "unit": "茶匙"},
+            {"ingredient": "食用油", "amount": "適量", "unit": ""},
+            {"ingredient": "水", "amount": "50", "unit": "毫升"}
         ],
-        "cooking_instructions": "將豬五花肉洗淨，放入冷水鍋中，加入薑片和蔥白，大火煮開後轉小火煮20分鐘至熟透。撈起晾涼後切成薄片備用。大蒜剁成蒜泥，加入生抽、香油、白糖、米醋、辣椒油、花椒粉和鹽調成蒜泥醬汁。將切好的肉片整齊擺盤，淋上調好的蒜泥醬汁，最後撒上蔥絲裝飾即可。",
+        "cooking_instructions": "1. 將白花椰菜切成適口大小的塊狀，用滾水汆燙2-3分鐘後撈起瀝乾。2. 製作粉漿：將地瓜粉、雞蛋和水調勻成無顆粒的粉漿。3. 將汆燙好的花椰菜沾裹粉漿。4. 熱油至170°C，將裹好粉漿的花椰菜下鍋油炸至表面金黃酥脆，約3-4分鐘，撈起瀝油。5. 另起鍋放少許油，爆香切片的蒜頭和辣椒。6. 加入炸好的花椰菜快速拌炒。7. 撒入鹽酥粉調味拌勻。8. 最後加入青菜快速拌炒至軟身即可起鍋盛盤。",
         "quantity": 2
     },
     {
