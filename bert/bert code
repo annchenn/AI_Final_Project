@@ -1,3 +1,9 @@
+bert核心觀念: 基於變換器（transformers）的編碼器（encoder），通過上下文標記文字的深度雙向標記法將純文字轉換為電腦理解的字詞向量（word vector），
+成為詞嵌入（word embedding），把字詞所帶有之特徵（word vector）組合起來，
+標記時是考慮到雙向的，較不會產生同一個字，在不同語境（context）裡產生的歧異問題。
+總結: 先把句子轉換成向量，再去做相似度比較
+介紹: https://arxiv.org/pdf/1810.04805
+
 1. 使用不同base
 https://huggingface.co/ckiplab/bert-base-chinese
 from transformers import (
