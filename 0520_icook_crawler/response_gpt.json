@@ -195,23 +195,22 @@
     },
     {
     "cuisine_id": 11,
-    "cuisine_img_url": "https://imageproxy.icook.network/fit?background=255%2C255%2C255&height=1080&nocrop=true&stripmeta=true&type=auto&url=http%3A%2F%2Ftokyo-kitchen.icook.tw.s3.amazonaws.com%2Fuploads%2Frecipe%2Fcover%2F423477%2Fdeb095c0e620134e.jpg&width=1080",
-    "cuisine_name": "清蒸臭豆腐",
+    "cuisine_img_url": "https://icook.tw/recipes/283278",
+    "cuisine_name": "香菇豆鼓蒸豆腐",
     "ingredients": [
-        { "ingredient": "臭豆腐", "amount": "2", "unit": "塊" },
-        { "ingredient": "香菇", "amount": "2", "unit": "朵" },
-        { "ingredient": "毛豆", "amount": "2", "unit": "湯匙" },
-        { "ingredient": "蒜末", "amount": "1", "unit": "小匙" },
-        { "ingredient": "醬油", "amount": "1.5", "unit": "大匙" },
-        { "ingredient": "醬油膏", "amount": "1", "unit": "小匙" },
-        { "ingredient": "水", "amount": "50", "unit": "毫升" },
-        { "ingredient": "糖", "amount": "1/2", "unit": "小匙" },
-        { "ingredient": "辣椒（可選）", "amount": "適量", "unit": "" },
-        { "ingredient": "太白粉水", "amount": "適量", "unit": "" },
-        { "ingredient": "食用油", "amount": "1", "unit": "小匙" }
+        {"ingredient": "嫩豆腐", "amount": "1", "unit": "盒"},
+        {"ingredient": "香菇", "amount": "2", "unit": "朵"},
+        {"ingredient": "毛豆仁", "amount": "2", "unit": "大匙"},
+        {"ingredient": "豆鼓醬", "amount": "1.5", "unit": "大匙"},
+        {"ingredient": "醬油", "amount": "1", "unit": "小匙"},
+        {"ingredient": "香油", "amount": "1", "unit": "小匙"},
+        {"ingredient": "砂糖", "amount": "1/2", "unit": "小匙"},
+        {"ingredient": "水", "amount": "2", "unit": "大匙"},
+        {"ingredient": "蒜末", "amount": "1", "unit": "小匙"},
+        {"ingredient": "食用油", "amount": "1", "unit": "小匙"}
     ],
-    "cooking_instructions": "香菇切丁，毛豆煮熟備用。熱鍋加油，爆香蒜末與香菇丁，加入醬油、醬油膏、水、糖與辣椒煮滾，勾薄芡成醬汁。將臭豆腐放入碗中，淋上醬汁後蒸10至15分鐘。最後撒上毛豆點綴即可上桌。",
-    "quantity": 1
+    "cooking_instructions": "香菇泡水後切絲備用。豆腐切塊擺放在盤中，準備蒸。鍋中加油，爆香蒜末，再加入香菇絲炒軟，加入豆鼓醬、醬油、砂糖與水，小火拌炒成醬汁。將醬料淋在豆腐上，放入蒸鍋中以中火蒸約8-10分鐘。最後撒上毛豆仁與香油即可上桌。",
+    "quantity": 2
     },
     {
     "cuisine_id": 12,
