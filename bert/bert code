@@ -26,7 +26,7 @@ model.eval()
 hfl/chinese-roberta-wwm
 
 -----------------------------------------------------------------------
-2. 利用另一種計算方式
+2. 利用另一種向量轉換方式
 from transformers import BertTokenizer, BertModel
 import torch
 import torch.nn.functional as F
