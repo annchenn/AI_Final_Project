@@ -186,45 +186,7 @@
         "cooking_instructions": "雞軟骨洗淨後用米酒、鹽醃製15分鐘。蒜頭切末，青紅椒切小段，青蔥切段備用。將醃好的雞軟骨沾蛋液後裹上地瓜粉。熱油至170度，放入雞軟骨炸至金黃酥脆撈起瀝油。另起鍋放少許油，爆香蒜末，加入青紅椒段炒香。倒入炸好的雞軟骨快速拌炒，撒入鹽、白胡椒粉、五香粉調味。最後加入蔥段拌勻即可起鍋。",
         "quantity": 2
     },
-    {
-        "cuisine_id":10,
-        "cuisine_img_url": "https://icook.tw/recipes/443155",
-        "cuisine_name": "鹽酥花椰菜",
-        "ingredients": [
-            {"ingredient": "白花椰菜", "amount": "1", "unit": "顆"},
-            {"ingredient": "地瓜粉", "amount": "100", "unit": "克"},
-            {"ingredient": "雞蛋", "amount": "1", "unit": "顆"},
-            {"ingredient": "蒜頭", "amount": "3", "unit": "瓣"},
-            {"ingredient": "辣椒", "amount": "1", "unit": "根"},
-            {"ingredient": "青菜(菠菜或小白菜)", "amount": "50", "unit": "克"},
-            {"ingredient": "鹽酥粉", "amount": "2", "unit": "茶匙"},
-            {"ingredient": "食用油", "amount": "適量", "unit": ""},
-            {"ingredient": "水", "amount": "50", "unit": "毫升"}
-        ],
-        "cooking_instructions": "1. 將白花椰菜切成適口大小的塊狀，用滾水汆燙2-3分鐘後撈起瀝乾。2. 製作粉漿：將地瓜粉、雞蛋和水調勻成無顆粒的粉漿。3. 將汆燙好的花椰菜沾裹粉漿。4. 熱油至170°C，將裹好粉漿的花椰菜下鍋油炸至表面金黃酥脆，約3-4分鐘，撈起瀝油。5. 另起鍋放少許油，爆香切片的蒜頭和辣椒。6. 加入炸好的花椰菜快速拌炒。7. 撒入鹽酥粉調味拌勻。8. 最後加入青菜快速拌炒至軟身即可起鍋盛盤。",
-        "quantity": 2
-    },
-    {
-        "cuisine_id": 11,
-        "cuisine_img_url": "https://icook.tw/recipes/283278",
-        "cuisine_name": "豉汁蒸豆腐",
-        "ingredients": [
-            {"ingredient": "嫩豆腐", "amount": "2", "unit": "盒"},
-            {"ingredient": "乾香菇", "amount": "6", "unit": "朵"},
-            {"ingredient": "毛豆仁", "amount": "100", "unit": "克"},
-            {"ingredient": "豆豉", "amount": "2", "unit": "大匙"},
-            {"ingredient": "蒜頭", "amount": "4", "unit": "瓣"},
-            {"ingredient": "薑", "amount": "1", "unit": "片"},
-            {"ingredient": "生抽", "amount": "3", "unit": "大匙"},
-            {"ingredient": "老抽", "amount": "1", "unit": "大匙"},
-            {"ingredient": "糖", "amount": "1", "unit": "茶匙"},
-            {"ingredient": "香油", "amount": "1", "unit": "茶匙"},
-            {"ingredient": "水", "amount": "100", "unit": "毫升"},
-            {"ingredient": "太白粉", "amount": "1", "unit": "茶匙"}
-        ],
-        "cooking_instructions": "1. 乾香菇提前泡發，切片備用。豆腐切成厚片，排列在蒸盤中。2. 毛豆仁用滾水燙熟，撈起備用。3. 豆豉壓碎，蒜頭和薑切末。4. 熱鍋下油，爆香蒜末、薑末和豆豉。5. 加入香菇片炒香，再倒入生抽、老抽、糖和水，煮滾。6. 用太白粉水勾芡，調成濃稠的豉汁醬汁。7. 將調好的豉汁醬汁淋在豆腐上。8. 放入蒸鍋中大火蒸10分鐘。9. 取出後撒上燙好的毛豆仁，最後淋上香油即可。",
-        "quantity": 4
-    },
+    
     {
         "cuisine_id": 12,
         "cuisine_img_url": "https://ludaddylumalife.com/stinky-tofu/",
